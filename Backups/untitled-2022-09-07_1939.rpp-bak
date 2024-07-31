@@ -1,0 +1,866 @@
+<REAPER_PROJECT 0.1 "6.66/win64" 1662593997
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 3
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 188.03546894571892
+  ZOOM 33411.980384475435 7039267 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio Files" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 2
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 143.86601849322901 143.86601849322901
+  SELECTION2 143.86601849322901 143.86601849322901
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {CAA67A76-FADF-4D08-9C85-9CA20A3DD74F}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {118C7D13-5857-42BD-B020-92EA734D548D}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {5684D34B-144C-4385-BF46-407562B8A996}
+    NAME foundation
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.39355157656505 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 -1 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 121 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5684D34B-144C-4385-BF46-407562B8A996}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 231
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C04FBD89-7423-4466-8FAA-06DB6FB8CCDD}
+      IID 1
+      NAME soothsayer.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38D51041-068D-41B3-B7BE-156032748B66}
+      <SOURCE MP3
+        FILE "C:\Users\sgune\Downloads\soothsayer.mp3" 1
+      >
+    >
+  >
+  <TRACK {F252827B-D98B-4827-992E-9F62840013F2}
+    NAME Bass-disto
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 1 2 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F252827B-D98B-4827-992E-9F62840013F2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 15.5
+      SNAPOFFS 0
+      LENGTH 48.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D8910F2-5BEE-436B-BDE8-FE88284CADAD}
+      IID 12
+      NAME "Bass-disto - 06.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22D1C38E-AC29-471E-AE2B-AC269911BFE4}
+      RECPASS 6
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 06.wav"
+      >
+    >
+    <ITEM
+      POSITION 78
+      SNAPOFFS 0
+      LENGTH 22.62816666666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F162BA1A-3566-479C-833B-CB4C3B67505E}
+      IID 28
+      NAME "Bass-disto - 13.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACE8BA70-BA81-479B-B0C3-E5D61A9F25AB}
+      RECPASS 13
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 13.wav"
+      >
+    >
+    <ITEM
+      POSITION 109
+      SNAPOFFS 0
+      LENGTH 16.77895912880294
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D9EEFB67-1018-4387-ACED-30529F54BA49}
+      IID 38
+      NAME "Bass-disto - 18.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD452A4E-81A5-40E8-AE47-5A76682864EF}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 18.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.82554166666667
+      SNAPOFFS 0
+      LENGTH 16.149375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC5E13E0-2724-4000-8FBF-135040C645B8}
+      IID 54
+      NAME "Bass-disto - 23.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8779ED87-C4F7-4165-9397-9248004B8833}
+      RECPASS 23
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 23.wav"
+      >
+      TAKE NULL
+    >
+    <ITEM
+      POSITION 143.97491666666667
+      SNAPOFFS 0
+      LENGTH 3.940125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6BF1753-F892-4CA8-A6A6-BA85AE829ADC}
+      IID 58
+      NAME "Bass-disto - 23.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 20.149375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE1B5D9D-313A-4850-BD59-60BBFE0190A7}
+      RECPASS 23
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 23.wav"
+      >
+      TAKE SEL
+      NAME "Bass-disto - 25.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22633282 R
+      GUID {8C010D08-D0E0-4C68-AAE9-3A23603A7602}
+      RECPASS 25
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 25.wav"
+      >
+    >
+    <ITEM
+      POSITION 147.91504166666667
+      SNAPOFFS 0
+      LENGTH 16.96004166666668
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C401C53-12B1-4B8A-8FD3-8827C1415157}
+      IID 59
+      VOLPAN 1
+      TAKE SEL
+      NAME "Bass-disto - 25.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 7.940125
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22633282 R
+      GUID {A5769F24-AF6A-4827-818D-403D384CCF55}
+      RECPASS 25
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 25.wav"
+      >
+    >
+    <ITEM
+      POSITION 173.86660416666666
+      SNAPOFFS 0
+      LENGTH 14.16843556046823
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F722A5FD-934F-4630-89B7-AA7DF7CCEA75}
+      IID 72
+      NAME "Bass-disto - 31.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D91C7E9-B52A-44F2-A2A8-4BF648902E14}
+      RECPASS 31
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 31.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.03545833333334
+      SNAPOFFS 0
+      LENGTH 22.69216666666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {A639DA3D-2FBC-4605-8898-421BF4F6FFDA}
+      IID 84
+      NAME "Bass-disto - 37.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2625D24-3251-45E4-B40E-D669746A65A3}
+      RECPASS 37
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto - 37.wav"
+      >
+    >
+  >
+  <TRACK {1F115CD0-401E-4C25-96A2-25DD7071478A}
+    NAME Bass-DI
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 1 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1F115CD0-401E-4C25-96A2-25DD7071478A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 15.5
+      SNAPOFFS 0
+      LENGTH 48.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A90BFDE-B483-47AD-8229-5C08FFC17BEB}
+      IID 13
+      NAME "Bass-DI - 06.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5A99BB8-BC14-4FF9-9FFB-D1CEFC96712F}
+      RECPASS 6
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 06.wav"
+      >
+    >
+    <ITEM
+      POSITION 78
+      SNAPOFFS 0
+      LENGTH 22.62816666666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {76153A0F-9A04-4940-992F-BD07B2F08C60}
+      IID 29
+      NAME "Bass-DI - 13.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD7EB245-0784-4B4C-BCD5-76AE4CC3D539}
+      RECPASS 13
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 13.wav"
+      >
+    >
+    <ITEM
+      POSITION 109
+      SNAPOFFS 0
+      LENGTH 16.77895912880294
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20548E83-9674-426A-9AED-2E1A8A55886D}
+      IID 39
+      NAME "Bass-DI - 18.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FD71C82-B7B5-472E-82B8-8409F9D4D0C0}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 18.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.82554166666667
+      SNAPOFFS 0
+      LENGTH 16.149375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {084251A2-ED7C-4353-93C2-D89AFF02A282}
+      IID 55
+      NAME "Bass-DI - 23.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C136AEBF-F77F-411E-8CE8-416D9AE40718}
+      RECPASS 23
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 23.wav"
+      >
+      TAKE NULL
+    >
+    <ITEM
+      POSITION 143.97491666666667
+      SNAPOFFS 0
+      LENGTH 3.940125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C781A5B-430A-420F-B779-7D209BDA2158}
+      IID 60
+      NAME "Bass-DI - 23.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 20.149375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26279C83-5114-4DFB-B89C-9F54D225BC17}
+      RECPASS 23
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 23.wav"
+      >
+      TAKE SEL
+      NAME "Bass-DI - 25.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22633282 R
+      GUID {9D822650-C712-4837-B354-3BFF5F187CE7}
+      RECPASS 25
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 25.wav"
+      >
+    >
+    <ITEM
+      POSITION 147.91504166666667
+      SNAPOFFS 0
+      LENGTH 16.96004166666668
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A05FC39C-B45A-4640-9438-4D548225B55E}
+      IID 61
+      VOLPAN 1
+      TAKE SEL
+      NAME "Bass-DI - 25.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 7.940125
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22633282 R
+      GUID {A0B2032D-7DFE-4388-B6B7-5ED83C7DFA12}
+      RECPASS 25
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 25.wav"
+      >
+    >
+    <ITEM
+      POSITION 173.86660416666666
+      SNAPOFFS 0
+      LENGTH 14.16843556046823
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98AE001E-9062-4F2B-BF89-49E0B420CCCA}
+      IID 73
+      NAME "Bass-DI - 31.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EA129EB-B68C-4216-A777-8664409FF883}
+      RECPASS 31
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 31.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.03545833333334
+      SNAPOFFS 0
+      LENGTH 22.69216666666667
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {41353A46-C5EB-4F0B-9BB4-0152F4DBC7F0}
+      IID 85
+      NAME "Bass-DI - 37.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE0A49C3-6A46-4390-9335-DD817A3856D2}
+      RECPASS 37
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI - 37.wav"
+      >
+    >
+  >
+  <TRACK {3A2E117D-4942-49E7-B127-2E4798249770}
+    NAME Bass-disto2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 2 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3A2E117D-4942-49E7-B127-2E4798249770}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 63.5
+      SNAPOFFS 0
+      LENGTH 16.36683333333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92856FBD-0FDA-436B-A0B1-9AB26DD2CE9A}
+      IID 24
+      NAME "Bass-disto2 - 11.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57C15745-447D-4AD4-B3F6-F433D66824FA}
+      RECPASS 11
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto2 - 11.wav"
+      >
+    >
+    <ITEM
+      POSITION 79.95925
+      SNAPOFFS 0
+      LENGTH 30.04075
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C03FE5AB-C15E-4DBE-BB1D-04ED861EBC8D}
+      IID 30
+      NAME "Bass-disto2 - 14.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2FA2746A-A118-43C5-80A0-3D14D38680F2}
+      RECPASS 14
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto2 - 14.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.82554166666667
+      SNAPOFFS 0
+      LENGTH 23.2255
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 3.032741 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6556209D-7290-458E-9F0C-67D681D9424F}
+      IID 56
+      NAME "Bass-disto2 - 24.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1F05C1F-CC12-42F1-83FD-9F3259808A51}
+      RECPASS 24
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto2 - 24.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.52604166666666
+      SNAPOFFS 0
+      LENGTH 20.8575
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D8643DC-2457-491B-9A9D-D4DBB5728DFD}
+      IID 68
+      NAME "Bass-disto2 - 29.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97D84F29-2649-4AD1-BF1A-34EE50B16198}
+      RECPASS 29
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto2 - 29.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.03504166666667
+      SNAPOFFS 0
+      LENGTH 22.30816666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8B233E4-2CA0-40DD-AE36-7843A3F081BF}
+      IID 82
+      NAME "Bass-disto2 - 36.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9317D42E-A09B-4B7B-BB80-6AABB615D052}
+      RECPASS 36
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-disto2 - 36.wav"
+      >
+    >
+  >
+  <TRACK {03C56BA1-C7C1-4648-B119-D55C4E2602FE}
+    NAME Bass-DI2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {03C56BA1-C7C1-4648-B119-D55C4E2602FE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 63.5
+      SNAPOFFS 0
+      LENGTH 16.36683333333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B7DC2C5-ADD4-41C4-BA64-53DC0A485B87}
+      IID 25
+      NAME "Bass-DI2 - 11.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F39907A6-DB49-4049-939A-0FC87BCCC24A}
+      RECPASS 11
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI2 - 11.wav"
+      >
+    >
+    <ITEM
+      POSITION 79.95925
+      SNAPOFFS 0
+      LENGTH 30.04075
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {613DA078-E549-4CFA-A622-64D729586383}
+      IID 31
+      NAME "Bass-DI2 - 14.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA9BF779-7A23-4312-A5EC-497AA6F935EC}
+      RECPASS 14
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI2 - 14.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.82554166666667
+      SNAPOFFS 0
+      LENGTH 23.2255
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 3.032741 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {215458FB-EA27-4D2B-AFF3-F90D5CA21A97}
+      IID 57
+      NAME "Bass-DI2 - 24.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A0C1C8D-1FDD-4F39-A14E-1E54F763EB34}
+      RECPASS 24
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI2 - 24.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.52604166666666
+      SNAPOFFS 0
+      LENGTH 20.8575
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B210E4C-15D0-4D0D-86B2-1257F622CD47}
+      IID 69
+      NAME "Bass-DI2 - 29.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E18FA89E-13AD-4E88-B217-E653805A9759}
+      RECPASS 29
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI2 - 29.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.03504166666667
+      SNAPOFFS 0
+      LENGTH 22.30816666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7BDD2F71-7C70-40C1-A308-6A5D85E04013}
+      IID 83
+      NAME "Bass-DI2 - 36.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6533695-4BE2-43DB-A416-2162D2DA6C8F}
+      RECPASS 36
+      <SOURCE WAVE
+        FILE "C:\Users\sgune\Documents\REAPER Media\Bass-DI2 - 36.wav"
+      >
+    >
+  >
+>

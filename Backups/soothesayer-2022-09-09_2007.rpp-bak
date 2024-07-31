@@ -1,0 +1,6056 @@
+<REAPER_PROJECT 0.1 "6.66/win64" 1662768478
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 131
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 108
+  ZOOM 10.60107103087167 42 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio Files" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN soothesayer_bass_only_2022
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 2
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    bDNwbUABAAAAAAAAAgAAAP////8EAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 80 96
+  SELECTION2 80 96
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1.23807125729933 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {CAA67A76-FADF-4D08-9C85-9CA20A3DD74F}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {118C7D13-5857-42BD-B020-92EA734D548D}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 32 Verse1 0 0 1 R {701F633A-22EB-47C4-8CF9-C5869EB84AAE}
+  MARKER 2 48 Verse2 0 0 1 R {98166305-C3CB-4ED2-8279-B0C7B9472A42}
+  MARKER 3 64 pre-chorus 0 0 1 R {51A63A4F-5B95-43AD-8F37-688BFD7C849A}
+  MARKER 4 80 Chorus1 0 0 1 R {F53FF598-4C3C-4780-9F9B-DF73FD1314FB}
+  MARKER 5 96 Verse3 0 0 1 R {EC74E2CE-BE11-4E1F-ADE8-F20B8D5CCEF1}
+  MARKER 6 112 pre-chorus 0 0 1 R {13E6B2C3-62D6-449E-B890-7A0785F436F9}
+  MARKER 7 128 Chorus2 0 0 1 R {B373C8F3-0CB3-4477-9107-6BF202235375}
+  MARKER 8 144 DeshiSolo1 0 0 1 R {851DE64F-B3AD-4F61-8F52-52260621F625}
+  MARKER 9 160 Prog_1 0 0 1 R {5ACD7B81-532F-4027-8764-CC502776E263}
+  MARKER 10 174 Prog_2 0 0 1 R {52ED3C47-551B-4F0E-BEB1-E4ECA972BF1C}
+  MARKER 11 188 DeshiSolo2 0 0 1 R {00DBC0D0-9BF2-4AEC-87BB-008DE4C85B70}
+  MARKER 12 204 outro 0 0 1 R {FB5D16B6-FC87-4AF1-B1F4-7FB93AACDFAE}
+  <PROJBAY
+  >
+  <TRACK {36A0E5A7-FB0F-413B-B7C7-8F14229A70E4}
+    NAME "Hidden v6 (new vox)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.21412339328026 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {36A0E5A7-FB0F-413B-B7C7-8F14229A70E4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 232
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CDE93DB-9AC8-4399-8F19-059D24A54A45}
+      IID 110
+      NAME "Hidden v6 (new vox).mp3"
+      VOLPAN 1 0 1.82453 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D67F2DCA-2EAB-44D4-AC85-C31237DB247B}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Hidden v6 (new vox).mp3" 1
+      >
+    >
+  >
+  <TRACK {5684D34B-144C-4385-BF46-407562B8A996}
+    NAME foundation-SUXDRUMS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.21717537319559 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 -1 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 75 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5684D34B-144C-4385-BF46-407562B8A996}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 231
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C04FBD89-7423-4466-8FAA-06DB6FB8CCDD}
+      IID 1
+      NAME soothsayer.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38D51041-068D-41B3-B7BE-156032748B66}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer.mp3" 1
+      >
+    >
+  >
+  <TRACK {F252827B-D98B-4827-992E-9F62840013F2}
+    NAME Bass-disto
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.1133157291766 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 2 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F252827B-D98B-4827-992E-9F62840013F2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {4D8910F2-5BEE-436B-BDE8-FE88284CADAD}
+        POSITION 15.5
+        SNAPOFFS 0
+        LENGTH 48.5
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {4D8910F2-5BEE-436B-BDE8-FE88284CADAD}
+        IID 12
+        NAME "Bass-disto - 06.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {22D1C38E-AC29-471E-AE2B-AC269911BFE4}
+        RECPASS 6
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 06.mp3" 1
+        >
+      >
+      <ITEM {F162BA1A-3566-479C-833B-CB4C3B67505E}
+        POSITION 78
+        SNAPOFFS 0
+        LENGTH 22.62816666666667
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {F162BA1A-3566-479C-833B-CB4C3B67505E}
+        IID 28
+        NAME "Bass-disto - 13.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {ACE8BA70-BA81-479B-B0C3-E5D61A9F25AB}
+        RECPASS 13
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 13.mp3" 1
+        >
+      >
+      <ITEM {D9EEFB67-1018-4387-ACED-30529F54BA49}
+        POSITION 109
+        SNAPOFFS 0
+        LENGTH 16.77895912880294
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {D9EEFB67-1018-4387-ACED-30529F54BA49}
+        IID 38
+        NAME "Bass-disto - 18.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {AD452A4E-81A5-40E8-AE47-5A76682864EF}
+        RECPASS 18
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 18.mp3" 1
+        >
+      >
+      <ITEM {CC5E13E0-2724-4000-8FBF-135040C645B8}
+        POSITION 127.82554166666667
+        SNAPOFFS 0
+        LENGTH 16.149375
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {CC5E13E0-2724-4000-8FBF-135040C645B8}
+        IID 54
+        NAME "Bass-disto - 23.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {8779ED87-C4F7-4165-9397-9248004B8833}
+        RECPASS 23
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 23.mp3" 1
+        >
+        TAKE NULL
+      >
+      <ITEM {F6BF1753-F892-4CA8-A6A6-BA85AE829ADC}
+        POSITION 143.97491666666667
+        SNAPOFFS 0
+        LENGTH 3.940125
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {F6BF1753-F892-4CA8-A6A6-BA85AE829ADC}
+        IID 58
+        NAME "Bass-disto - 23.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 20.149375
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {EE1B5D9D-313A-4850-BD59-60BBFE0190A7}
+        RECPASS 23
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 23.mp3" 1
+        >
+        TAKE SEL
+        NAME "Bass-disto - 25.mp3"
+        TAKEVOLPAN 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        TAKECOLOR 22633282 R
+        GUID {8C010D08-D0E0-4C68-AAE9-3A23603A7602}
+        RECPASS 25
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 25.mp3" 1
+        >
+      >
+      <ITEM {4C401C53-12B1-4B8A-8FD3-8827C1415157}
+        POSITION 147.91504166666667
+        SNAPOFFS 0
+        LENGTH 16.96004166666668
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {4C401C53-12B1-4B8A-8FD3-8827C1415157}
+        IID 59
+        VOLPAN 1
+        TAKE SEL
+        NAME "Bass-disto - 25.mp3"
+        TAKEVOLPAN 0 1 -1
+        SOFFS 7.940125
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        TAKECOLOR 22633282 R
+        GUID {A5769F24-AF6A-4827-818D-403D384CCF55}
+        RECPASS 25
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 25.mp3" 1
+        >
+      >
+      <ITEM {F722A5FD-934F-4630-89B7-AA7DF7CCEA75}
+        POSITION 173.86660416666666
+        SNAPOFFS 0
+        LENGTH 14.16843556046823
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {F722A5FD-934F-4630-89B7-AA7DF7CCEA75}
+        IID 72
+        NAME "Bass-disto - 31.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {3D91C7E9-B52A-44F2-A2A8-4BF648902E14}
+        RECPASS 31
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 31.mp3" 1
+        >
+      >
+      <ITEM {A639DA3D-2FBC-4605-8898-421BF4F6FFDA}
+        POSITION 188.03545833333334
+        SNAPOFFS 0
+        LENGTH 22.69216666666667
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {A639DA3D-2FBC-4605-8898-421BF4F6FFDA}
+        IID 84
+        NAME "Bass-disto - 37.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {D2625D24-3251-45E4-B40E-D669746A65A3}
+        RECPASS 37
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 37.mp3" 1
+        >
+      >
+      <ITEM {0E3A9ED3-9AD4-482F-ABE0-B787B33C7971}
+        POSITION 210.77660416666666
+        SNAPOFFS 0
+        LENGTH 19.0015
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {0E3A9ED3-9AD4-482F-ABE0-B787B33C7971}
+        IID 88
+        NAME "Bass-disto - 39.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {DE0CE070-67D8-4369-95EB-E40260FA5A62}
+        RECPASS 39
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto - 39.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 15.5
+      SNAPOFFS 0
+      LENGTH 48.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 15.5 48.5 0
+      LOCK 1
+      SEL 0
+      IGUID {AE3754C3-D646-4508-91D4-195DCBE35411}
+      IID 130
+      NAME "Bass-disto - 06.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74C31201-29E3-4782-91E5-FBA2E74EBCD7}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto.wav"
+      >
+    >
+    <ITEM
+      POSITION 78
+      SNAPOFFS 0
+      LENGTH 22.62816666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 78 22.62816666666666 62.5
+      LOCK 1
+      SEL 0
+      IGUID {4F501BAF-251C-470E-A98E-989A408C4EFE}
+      IID 131
+      NAME "Bass-disto - 13.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 62.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F40A68AB-22BD-4DBA-9555-49C43E5B4077}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto.wav"
+      >
+    >
+    <ITEM
+      POSITION 109
+      SNAPOFFS 0
+      LENGTH 55.87508333333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 109 55.87508333333332 93.5
+      LOCK 1
+      SEL 0
+      IGUID {F43184C0-2590-4D50-842F-5267575D3B7C}
+      IID 132
+      NAME "Bass-disto - 18.mp3 : Bass-disto - 23.mp3 : Bass-disto - 25.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 93.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D84B4F0-2A1A-4BCF-BF32-6FE0303D847D}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto.wav"
+      >
+    >
+    <ITEM
+      POSITION 173.86660416666666
+      SNAPOFFS 0
+      LENGTH 55.9115
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 173.86660416666666 55.9115 158.36660416666666
+      LOCK 1
+      SEL 0
+      IGUID {ED54A291-7AE6-4085-BD33-2695CDAD19A6}
+      IID 133
+      NAME "Bass-disto - 31.mp3 : Bass-disto - 37.mp3 : Bass-disto - 39.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 158.36660416666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFB94EA5-1984-4CE7-94F2-98A69E0B2767}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto.wav"
+      >
+    >
+  >
+  <TRACK {1F115CD0-401E-4C25-96A2-25DD7071478A}
+    NAME Bass-DI
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.31104826827022 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1F115CD0-401E-4C25-96A2-25DD7071478A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {9A90BFDE-B483-47AD-8229-5C08FFC17BEB}
+        POSITION 15.5
+        SNAPOFFS 0
+        LENGTH 48.5
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {9A90BFDE-B483-47AD-8229-5C08FFC17BEB}
+        IID 13
+        NAME "Bass-DI - 06.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {D5A99BB8-BC14-4FF9-9FFB-D1CEFC96712F}
+        RECPASS 6
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 06.mp3" 1
+        >
+      >
+      <ITEM {76153A0F-9A04-4940-992F-BD07B2F08C60}
+        POSITION 78
+        SNAPOFFS 0
+        LENGTH 22.62816666666667
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {76153A0F-9A04-4940-992F-BD07B2F08C60}
+        IID 29
+        NAME "Bass-DI - 13.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {AD7EB245-0784-4B4C-BCD5-76AE4CC3D539}
+        RECPASS 13
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 13.mp3" 1
+        >
+      >
+      <ITEM {20548E83-9674-426A-9AED-2E1A8A55886D}
+        POSITION 109
+        SNAPOFFS 0
+        LENGTH 16.77895912880294
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {20548E83-9674-426A-9AED-2E1A8A55886D}
+        IID 39
+        NAME "Bass-DI - 18.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {1FD71C82-B7B5-472E-82B8-8409F9D4D0C0}
+        RECPASS 18
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 18.mp3" 1
+        >
+      >
+      <ITEM {084251A2-ED7C-4353-93C2-D89AFF02A282}
+        POSITION 127.82554166666667
+        SNAPOFFS 0
+        LENGTH 16.149375
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {084251A2-ED7C-4353-93C2-D89AFF02A282}
+        IID 55
+        NAME "Bass-DI - 23.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {C136AEBF-F77F-411E-8CE8-416D9AE40718}
+        RECPASS 23
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 23.mp3" 1
+        >
+        TAKE NULL
+      >
+      <ITEM {5C781A5B-430A-420F-B779-7D209BDA2158}
+        POSITION 143.97491666666667
+        SNAPOFFS 0
+        LENGTH 3.940125
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {5C781A5B-430A-420F-B779-7D209BDA2158}
+        IID 60
+        NAME "Bass-DI - 23.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 20.149375
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {26279C83-5114-4DFB-B89C-9F54D225BC17}
+        RECPASS 23
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 23.mp3" 1
+        >
+        TAKE SEL
+        NAME "Bass-DI - 25.mp3"
+        TAKEVOLPAN 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        TAKECOLOR 22633282 R
+        GUID {9D822650-C712-4837-B354-3BFF5F187CE7}
+        RECPASS 25
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 25.mp3" 1
+        >
+      >
+      <ITEM {A05FC39C-B45A-4640-9438-4D548225B55E}
+        POSITION 147.91504166666667
+        SNAPOFFS 0
+        LENGTH 16.96004166666668
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {A05FC39C-B45A-4640-9438-4D548225B55E}
+        IID 61
+        VOLPAN 1
+        TAKE SEL
+        NAME "Bass-DI - 25.mp3"
+        TAKEVOLPAN 0 1 -1
+        SOFFS 7.940125
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        TAKECOLOR 22633282 R
+        GUID {A0B2032D-7DFE-4388-B6B7-5ED83C7DFA12}
+        RECPASS 25
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 25.mp3" 1
+        >
+      >
+      <ITEM {98AE001E-9062-4F2B-BF89-49E0B420CCCA}
+        POSITION 173.86660416666666
+        SNAPOFFS 0
+        LENGTH 14.16843556046823
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {98AE001E-9062-4F2B-BF89-49E0B420CCCA}
+        IID 73
+        NAME "Bass-DI - 31.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {1EA129EB-B68C-4216-A777-8664409FF883}
+        RECPASS 31
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 31.mp3" 1
+        >
+      >
+      <ITEM {41353A46-C5EB-4F0B-9BB4-0152F4DBC7F0}
+        POSITION 188.03545833333334
+        SNAPOFFS 0
+        LENGTH 22.69216666666667
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {41353A46-C5EB-4F0B-9BB4-0152F4DBC7F0}
+        IID 85
+        NAME "Bass-DI - 37.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {EE0A49C3-6A46-4390-9335-DD817A3856D2}
+        RECPASS 37
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 37.mp3" 1
+        >
+      >
+      <ITEM {72B0C220-1E33-4890-934C-81EA7FF33659}
+        POSITION 210.77660416666666
+        SNAPOFFS 0
+        LENGTH 19.0015
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {72B0C220-1E33-4890-934C-81EA7FF33659}
+        IID 89
+        NAME "Bass-DI - 39.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {96FDA5A4-7886-4AF4-830D-5CE369327AC8}
+        RECPASS 39
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI - 39.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 15.5
+      SNAPOFFS 0
+      LENGTH 48.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 15.5 48.5 0
+      LOCK 1
+      SEL 0
+      IGUID {B92F7AC7-B5AF-4B70-B2AA-3DB80B1BC11A}
+      IID 135
+      NAME "Bass-DI - 06.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73578E5D-C268-4DD5-9324-82E189D5CD03}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI.wav"
+      >
+    >
+    <ITEM
+      POSITION 78
+      SNAPOFFS 0
+      LENGTH 22.62816666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 78 22.62816666666666 62.5
+      LOCK 1
+      SEL 0
+      IGUID {0FBA39C6-F8BF-4B79-9A33-CFBBB806D81D}
+      IID 136
+      NAME "Bass-DI - 13.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 62.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C44E40F-1706-4EB0-98FF-12F0346D29FC}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI.wav"
+      >
+    >
+    <ITEM
+      POSITION 109
+      SNAPOFFS 0
+      LENGTH 55.87508333333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 109 55.87508333333332 93.5
+      LOCK 1
+      SEL 0
+      IGUID {422CF227-4C02-422C-B82D-EC109CB71A47}
+      IID 137
+      NAME "Bass-DI - 18.mp3 : Bass-DI - 23.mp3 : Bass-DI - 25.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 93.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AAB1A0E1-F6A2-4C18-B255-ECCE6DC045D3}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI.wav"
+      >
+    >
+    <ITEM
+      POSITION 173.86660416666666
+      SNAPOFFS 0
+      LENGTH 55.9115
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 173.86660416666666 55.9115 158.36660416666666
+      LOCK 1
+      SEL 0
+      IGUID {07D7E97F-D484-477F-837C-054C1CC2D9A0}
+      IID 138
+      NAME "Bass-DI - 31.mp3 : Bass-DI - 37.mp3 : Bass-DI - 39.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 158.36660416666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {729AA301-EDC0-4F56-91C9-E14E9FEBEF53}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI.wav"
+      >
+    >
+  >
+  <TRACK {3A2E117D-4942-49E7-B127-2E4798249770}
+    NAME Bass-disto2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.1133157291766 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 2 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3A2E117D-4942-49E7-B127-2E4798249770}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {92856FBD-0FDA-436B-A0B1-9AB26DD2CE9A}
+        POSITION 63.5
+        SNAPOFFS 0
+        LENGTH 16.36683333333333
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {92856FBD-0FDA-436B-A0B1-9AB26DD2CE9A}
+        IID 24
+        NAME "Bass-disto2 - 11.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {57C15745-447D-4AD4-B3F6-F433D66824FA}
+        RECPASS 11
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto2 - 11.mp3" 1
+        >
+      >
+      <ITEM {C03FE5AB-C15E-4DBE-BB1D-04ED861EBC8D}
+        POSITION 79.95925
+        SNAPOFFS 0
+        LENGTH 30.04075
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {C03FE5AB-C15E-4DBE-BB1D-04ED861EBC8D}
+        IID 30
+        NAME "Bass-disto2 - 14.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {2FA2746A-A118-43C5-80A0-3D14D38680F2}
+        RECPASS 14
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto2 - 14.mp3" 1
+        >
+      >
+      <ITEM {6556209D-7290-458E-9F0C-67D681D9424F}
+        POSITION 127.82554166666667
+        SNAPOFFS 0
+        LENGTH 23.2255
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 3.032741 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {6556209D-7290-458E-9F0C-67D681D9424F}
+        IID 56
+        NAME "Bass-disto2 - 24.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {F1F05C1F-CC12-42F1-83FD-9F3259808A51}
+        RECPASS 24
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto2 - 24.mp3" 1
+        >
+      >
+      <ITEM {5D8643DC-2457-491B-9A9D-D4DBB5728DFD}
+        POSITION 160.52604166666666
+        SNAPOFFS 0
+        LENGTH 20.8575
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.492031 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {5D8643DC-2457-491B-9A9D-D4DBB5728DFD}
+        IID 68
+        NAME "Bass-disto2 - 29.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {97D84F29-2649-4AD1-BF1A-34EE50B16198}
+        RECPASS 29
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto2 - 29.mp3" 1
+        >
+      >
+      <ITEM {F8B233E4-2CA0-40DD-AE36-7843A3F081BF}
+        POSITION 188.03504166666667
+        SNAPOFFS 0
+        LENGTH 22.30816666666666
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {F8B233E4-2CA0-40DD-AE36-7843A3F081BF}
+        IID 82
+        NAME "Bass-disto2 - 36.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {9317D42E-A09B-4B7B-BB80-6AABB615D052}
+        RECPASS 36
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto2 - 36.mp3" 1
+        >
+      >
+      <ITEM {8D270764-EA81-4C49-A2BC-7037835CF357}
+        POSITION 210.77660416666666
+        SNAPOFFS 0
+        LENGTH 19.50283333333334
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {8D270764-EA81-4C49-A2BC-7037835CF357}
+        IID 90
+        NAME "Bass-disto2 - 40.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {EDAB20F4-9E59-436E-A3ED-B39415DD791D}
+        RECPASS 40
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-disto2 - 40.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 63.5
+      SNAPOFFS 0
+      LENGTH 46.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 63.5 46.5 48
+      LOCK 1
+      SEL 0
+      IGUID {BD971B77-6B93-49B5-9AF5-C0FE86C7C0AB}
+      IID 140
+      NAME "Bass-disto2 - 11.mp3 : Bass-disto2 - 14.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 48
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88A230C5-BB03-4FA5-BA11-4BB308FDC0E3}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto2.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.82554166666667
+      SNAPOFFS 0
+      LENGTH 23.2255
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 127.82554166666667 23.2255 112.32554166666667
+      LOCK 1
+      SEL 0
+      IGUID {C43D449B-A137-4F83-81B7-74F8A6E51E76}
+      IID 141
+      NAME "Bass-disto2 - 24.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 112.32554166666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A039790-9927-4E78-9ECF-AD82D924C107}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto2.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.52604166666666
+      SNAPOFFS 0
+      LENGTH 20.8575
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 160.52604166666666 20.8575 145.02604166666666
+      LOCK 1
+      SEL 0
+      IGUID {FC38D83E-2191-4B8E-AAD0-F609F9ABFB18}
+      IID 142
+      NAME "Bass-disto2 - 29.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 145.02604166666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9614FE92-0951-4C6E-B695-EB80575742DC}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto2.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.03504166666667
+      SNAPOFFS 0
+      LENGTH 42.24439583333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 188.03504166666667 42.24439583333333 172.53504166666667
+      LOCK 1
+      SEL 0
+      IGUID {7E031214-CCD5-47FF-9DEA-B30B1C17F5DC}
+      IID 143
+      NAME "Bass-disto2 - 36.mp3 : Bass-disto2 - 40.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 172.53504166666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82539EF0-AF94-4645-8A83-D55B2BE94898}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-disto2.wav"
+      >
+    >
+  >
+  <TRACK {03C56BA1-C7C1-4648-B119-D55C4E2602FE}
+    NAME Bass-DI2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70858445955218 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {03C56BA1-C7C1-4648-B119-D55C4E2602FE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {8B7DC2C5-ADD4-41C4-BA64-53DC0A485B87}
+        POSITION 63.5
+        SNAPOFFS 0
+        LENGTH 16.36683333333333
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {8B7DC2C5-ADD4-41C4-BA64-53DC0A485B87}
+        IID 25
+        NAME "Bass-DI2 - 11.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {F39907A6-DB49-4049-939A-0FC87BCCC24A}
+        RECPASS 11
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI2 - 11.mp3" 1
+        >
+      >
+      <ITEM {613DA078-E549-4CFA-A622-64D729586383}
+        POSITION 79.95925
+        SNAPOFFS 0
+        LENGTH 30.04075
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {613DA078-E549-4CFA-A622-64D729586383}
+        IID 31
+        NAME "Bass-DI2 - 14.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {FA9BF779-7A23-4312-A5EC-497AA6F935EC}
+        RECPASS 14
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI2 - 14.mp3" 1
+        >
+      >
+      <ITEM {215458FB-EA27-4D2B-AFF3-F90D5CA21A97}
+        POSITION 127.82554166666667
+        SNAPOFFS 0
+        LENGTH 23.2255
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 3.032741 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {215458FB-EA27-4D2B-AFF3-F90D5CA21A97}
+        IID 57
+        NAME "Bass-DI2 - 24.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {4A0C1C8D-1FDD-4F39-A14E-1E54F763EB34}
+        RECPASS 24
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI2 - 24.mp3" 1
+        >
+      >
+      <ITEM {9B210E4C-15D0-4D0D-86B2-1257F622CD47}
+        POSITION 160.52604166666666
+        SNAPOFFS 0
+        LENGTH 20.8575
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.604835 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {9B210E4C-15D0-4D0D-86B2-1257F622CD47}
+        IID 69
+        NAME "Bass-DI2 - 29.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {E18FA89E-13AD-4E88-B217-E653805A9759}
+        RECPASS 29
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI2 - 29.mp3" 1
+        >
+      >
+      <ITEM {7BDD2F71-7C70-40C1-A308-6A5D85E04013}
+        POSITION 188.03504166666667
+        SNAPOFFS 0
+        LENGTH 22.30816666666666
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {7BDD2F71-7C70-40C1-A308-6A5D85E04013}
+        IID 83
+        NAME "Bass-DI2 - 36.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {F6533695-4BE2-43DB-A416-2162D2DA6C8F}
+        RECPASS 36
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI2 - 36.mp3" 1
+        >
+      >
+      <ITEM {5E141FC6-6B49-4F09-82EE-75A342FE3800}
+        POSITION 210.77660416666666
+        SNAPOFFS 0
+        LENGTH 19.50283333333334
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {5E141FC6-6B49-4F09-82EE-75A342FE3800}
+        IID 91
+        NAME "Bass-DI2 - 40.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 4
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {7AF2E9A0-045C-4F47-9CA4-1C13A8ED0C0A}
+        RECPASS 40
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\Bass-DI2 - 40.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 63.5
+      SNAPOFFS 0
+      LENGTH 46.5
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 63.5 46.5 48
+      LOCK 1
+      SEL 0
+      IGUID {0F5ABCDE-0DA9-4BCA-B06A-DE72835A7DAC}
+      IID 144
+      NAME "Bass-DI2 - 11.mp3 : Bass-DI2 - 14.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 48
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D08FC56-D768-4931-9803-F1D92BF4BA0A}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI2.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.82554166666667
+      SNAPOFFS 0
+      LENGTH 23.2255
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 127.82554166666667 23.2255 112.32554166666667
+      LOCK 1
+      SEL 0
+      IGUID {81D76AD1-4641-498B-B505-A39A50F9282D}
+      IID 145
+      NAME "Bass-DI2 - 24.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 112.32554166666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD00BD04-21F7-404F-8DA8-C1E3EA9DB04F}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI2.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.52604166666666
+      SNAPOFFS 0
+      LENGTH 20.8575
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 160.52604166666666 20.8575 145.02604166666666
+      LOCK 1
+      SEL 0
+      IGUID {EE36B189-5BF6-4EA1-809D-8DD523074CC0}
+      IID 146
+      NAME "Bass-DI2 - 29.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 145.02604166666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5888E0D-982D-4657-AD93-7A96ED4DAB56}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI2.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.03504166666667
+      SNAPOFFS 0
+      LENGTH 42.24439583333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 188.03504166666667 42.24439583333333 172.53504166666667
+      LOCK 1
+      SEL 0
+      IGUID {8959EB06-D4BB-4A6C-AC7E-FB487210541C}
+      IID 147
+      NAME "Bass-DI2 - 36.mp3 : Bass-DI2 - 40.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 172.53504166666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B16D5832-2F2D-4406-9109-F098FAA07D6D}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Bass-DI2.wav"
+      >
+    >
+  >
+  <TRACK {29099BB8-EB52-4D23-991F-CD5E2375626A}
+    NAME Leads
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.39355157656505 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {29099BB8-EB52-4D23-991F-CD5E2375626A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {F86B1EBE-C3A3-4421-B404-DFCB5284DA61}
+        POSITION 0
+        SNAPOFFS 0
+        LENGTH 231
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {F86B1EBE-C3A3-4421-B404-DFCB5284DA61}
+        IID 121
+        NAME gman-hidden-001.mp3
+        VOLPAN 1 0 1 -1
+        SOFFS 0
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {BF740BAD-2439-44A9-8F81-169089852CFE}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\gman-hidden-001.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 231
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 0 231 0
+      LOCK 1
+      SEL 0
+      IGUID {15D28A6C-DDA9-45EE-99B1-B5ABEED78337}
+      IID 150
+      NAME "gman-hidden-001.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87BD2AED-E611-49E5-A004-24922FA9AFAC}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_Leads.wav"
+      >
+    >
+  >
+  <TRACK {69F48959-D679-42B4-8D87-11EFA529A92B}
+    NAME deshi_solo1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.31104826827022 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {69F48959-D679-42B4-8D87-11EFA529A92B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {E60E1049-C489-4C1D-AC93-CA0E01E1609D}
+        POSITION 0
+        SNAPOFFS 0
+        LENGTH 231
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 1
+        IGUID {E60E1049-C489-4C1D-AC93-CA0E01E1609D}
+        IID 122
+        NAME gman-hidden-002.mp3
+        VOLPAN 1 0 1 -1
+        SOFFS 0
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {0A6AB6BC-AE62-4AB1-9300-581950012B6D}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\gman-hidden-002.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 231
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 0 231 0
+      LOCK 1
+      SEL 0
+      IGUID {D659A1E1-0EC4-4B69-B0E8-FE6BDA950CF3}
+      IID 151
+      NAME "gman-hidden-002.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD36F22F-6195-48C9-B5F2-039B00D9BAFB}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_deshi_solo1.wav"
+      >
+    >
+  >
+  <TRACK {856D85B6-6A1D-45A9-84A8-B5A694ECAC6C}
+    NAME thick_guitar
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.15361769889688 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {856D85B6-6A1D-45A9-84A8-B5A694ECAC6C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {B48A64A0-ED7F-4993-88E0-EFC8811EDE21}
+        POSITION 0
+        SNAPOFFS 0
+        LENGTH 231
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {B48A64A0-ED7F-4993-88E0-EFC8811EDE21}
+        IID 123
+        NAME gman-hidden-003.mp3
+        VOLPAN 1 0 1 -1
+        SOFFS 0
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {4CF8D437-1705-47F8-8503-1288CAF42873}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\gman-hidden-003.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 231
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 0 231 0
+      LOCK 1
+      SEL 0
+      IGUID {AFFA68A9-22E4-4DC6-A05E-E6407E3DEF90}
+      IID 152
+      NAME "gman-hidden-003.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBDD341B-93B6-4C1A-A6AF-C69328200059}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_thick_guitar.wav"
+      >
+    >
+  >
+  <TRACK {B310FD71-DD46-44D3-88FF-C95DDC931C5A}
+    NAME piezo_layer
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.05025985107221 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B310FD71-DD46-44D3-88FF-C95DDC931C5A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {A46E04F0-6523-4F67-BAD3-BA26F178A264}
+        POSITION 72
+        SNAPOFFS 0
+        LENGTH 112.206365206914
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {A46E04F0-6523-4F67-BAD3-BA26F178A264}
+        IID 124
+        NAME soothsayer7Left-leads.mp3
+        VOLPAN 1 0 1 -1
+        SOFFS 72
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {F57882FC-F66E-4520-9395-937120139FC0}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7Left-leads.mp3" 1
+        >
+      >
+      <ITEM {1CF58020-4111-4AE1-A0CF-D1CCEC8E9AE4}
+        POSITION 187.95567739689986
+        SNAPOFFS 0
+        LENGTH 18.05209851036961
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {1CF58020-4111-4AE1-A0CF-D1CCEC8E9AE4}
+        IID 124
+        NAME soothsayer7Left-leads.mp3
+        VOLPAN 1 0 1 -1
+        SOFFS 194.96091671846551
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {E495A8F8-0F72-47EC-9BFC-A18BB26CD117}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7Left-leads.mp3" 1
+        >
+      >
+      <ITEM {016B70FA-8645-4E12-AD28-383A44E7893C}
+        POSITION 209.68471790304378
+        SNAPOFFS 0
+        LENGTH 21.33376373848333
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {016B70FA-8645-4E12-AD28-383A44E7893C}
+        IID 124
+        NAME soothsayer7Left-leads.mp3
+        VOLPAN 1 0 1 -1
+        SOFFS 232.66623626151667
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {6D7934A2-F861-42A8-A085-A040A8C54F1C}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7Left-leads.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 72
+      SNAPOFFS 0
+      LENGTH 112.206375
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 72 112.206375 0
+      LOCK 1
+      SEL 0
+      IGUID {387D0F95-61E5-444B-B54E-F87403C9DF75}
+      IID 153
+      NAME "soothsayer7Left-leads.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6248C40F-CE90-4E95-9720-45F16AE9246D}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_piezo_layer-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 187.9556875
+      SNAPOFFS 0
+      LENGTH 18.05208333333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 187.9556875 18.05208333333333 0
+      LOCK 1
+      SEL 0
+      IGUID {94487EFF-A5B8-4AA4-8AC9-E4A27D5230A4}
+      IID 154
+      NAME "soothsayer7Left-leads.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5A8A637-8FCD-4113-AB87-313F304C56EC}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_piezo_layer-002.wav"
+      >
+    >
+    <ITEM
+      POSITION 209.68470833333333
+      SNAPOFFS 0
+      LENGTH 21.33377083333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 209.68470833333333 21.33377083333332 0
+      LOCK 1
+      SEL 0
+      IGUID {11398177-4F1C-4A17-80E9-AD67DF89A761}
+      IID 155
+      NAME "soothsayer7Left-leads.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3A713C1-2080-4F60-AC04-FEE0E0AF795C}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_piezo_layer-003.wav"
+      >
+    >
+  >
+  <TRACK {9A504D0C-7F8E-485E-B1D0-C41B18D0392B}
+    NAME "soothsayer7new leads"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.28556134247332 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9A504D0C-7F8E-485E-B1D0-C41B18D0392B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FREEZE 0
+      <ITEM {B8410753-4DBA-4C4B-9504-88389C5D9003}
+        POSITION 173.96275871333336
+        SNAPOFFS 0
+        LENGTH 22.005
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 1
+        IGUID {B8410753-4DBA-4C4B-9504-88389C5D9003}
+        IID 125
+        NAME "soothsayer7new leads.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 180.9265435834526
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {CC788C3D-908C-4EFF-A2C0-88B0311B288C}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7new leads.mp3" 1
+        >
+      >
+      <ITEM {9296F383-B283-457F-B04E-658DC863B42D}
+        POSITION 204
+        SNAPOFFS 0
+        LENGTH 27.0734564165474
+        LOOP 0
+        ALLTAKES 0
+        FADEIN 1 0.01 0 1 0 0 0
+        FADEOUT 1 0.01 0 1 0 0 0
+        MUTE 0 0
+        SEL 0
+        IGUID {9296F383-B283-457F-B04E-658DC863B42D}
+        IID 125
+        NAME "soothsayer7new leads.mp3"
+        VOLPAN 1 0 1 -1
+        SOFFS 226.9265435834526
+        PLAYRATE 1 1 0 -1 0 0.0025
+        CHANMODE 0
+        GUID {676925D1-3597-456F-9CA1-DEC94D06CB79}
+        <SOURCE MP3
+          FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7new leads.mp3" 1
+        >
+      >
+    >
+    <ITEM
+      POSITION 173.96275
+      SNAPOFFS 0
+      LENGTH 22.005
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 173.96275 22.005 0
+      LOCK 1
+      SEL 0
+      IGUID {D6594988-094B-4C0F-AE67-2BA2B36A958D}
+      IID 159
+      NAME "soothsayer7new leads.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CAC7F5C-56D3-449A-BDD4-7ADFC0DF9FAF}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_soothsayer7new leads-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 204
+      SNAPOFFS 0
+      LENGTH 27.07345833333332
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      FREEZE 204 27.07345833333332 0
+      LOCK 1
+      SEL 0
+      IGUID {1DBAE935-75F1-40CC-B18A-2015202D3C88}
+      IID 160
+      NAME "soothsayer7new leads.mp3 - freeze"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1CE2983-764E-4D9E-B6D1-2B0CEB86CBE9}
+      <SOURCE WAVE
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothesayer_freeze_soothsayer7new leads-002.wav"
+      >
+    >
+  >
+  <TRACK {1725C663-BD14-44CB-B0AA-4AF62435AD5B}
+    NAME soothsayer7Right-leads
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.12508078186329 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1725C663-BD14-44CB-B0AA-4AF62435AD5B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 79.91137987825566
+      SNAPOFFS 0
+      LENGTH 27.005
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3165EF90-D919-4974-A0BC-4ECF6327DDAE}
+      IID 126
+      NAME soothsayer7Right-leads.mp3
+      VOLPAN 0.980198 0 1 -1
+      SOFFS 79.89244207030708
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {325A6ECF-F0C7-47AF-A55D-15EE116A96D8}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7Right-leads.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 127.82554166666667
+      SNAPOFFS 0
+      LENGTH 36.00615078180088
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8FFF9B99-D4BD-41DD-958A-64E51AF34AFC}
+      IID 126
+      NAME soothsayer7Right-leads.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 127.84577514791772
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B6BCEBB-62C7-418F-BB6C-86372224657F}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7Right-leads.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 187.8270936741925
+      SNAPOFFS 0
+      LENGTH 22.14277601614398
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D625EFB-E7F4-4E43-8164-A3A41A3FFCDD}
+      IID 126
+      NAME soothsayer7Right-leads.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 194.79807953561621
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1689F6E2-C580-44DF-BCC9-B92A880B044A}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7Right-leads.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 212.41537032609622
+      SNAPOFFS 0
+      LENGTH 18.58447053132085
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42EEB062-59EA-4580-B2D8-CBADA9768854}
+      IID 126
+      NAME soothsayer7Right-leads.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 235.41552946867915
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C24BCC74-D788-42EE-895F-2EDD918C44C0}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7Right-leads.mp3" 1
+      >
+    >
+  >
+  <TRACK {F92ED05D-09FA-4884-850D-88579EC1619E}
+    NAME soothsayer7thick-guitar
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.1023765046481 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F92ED05D-09FA-4884-850D-88579EC1619E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 79.36139897655563
+      SNAPOFFS 0
+      LENGTH 30.0333254221555
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E73D02D2-7A97-4A97-B72B-91AFFB0930D0}
+      IID 127
+      NAME soothsayer7thick-guitar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 79.3356481421213
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {924765DF-1203-443E-890F-5F64C2527DB8}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7thick-guitar.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 127.90650348787398
+      SNAPOFFS 0
+      LENGTH 43.68984572384414
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2748E75E-5072-476B-8A44-529876948A4B}
+      IID 127
+      NAME soothsayer7thick-guitar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 127.91017584098893
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BF6AB9B-E52F-4C4F-B654-B448F0AEE02E}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7thick-guitar.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 187.92786461682948
+      SNAPOFFS 0
+      LENGTH 22.7366369555038
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F93E4295-DE7B-4582-BCCD-F3CE3D0D7294}
+      IID 127
+      NAME soothsayer7thick-guitar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 194.86569230314748
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A8B03AD-886F-4DFE-B949-B81E007D7DA9}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7thick-guitar.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 212.50568365994332
+      SNAPOFFS 0
+      LENGTH 18.53756771382194
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D66838CD-3DF1-469F-AAC5-547D07D774BB}
+      IID 127
+      NAME soothsayer7thick-guitar.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 235.46243228617806
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E316773-09B7-4FE7-8282-473146C98BF2}
+      <SOURCE MP3
+        FILE "D:\ReeperProjects\Projects\soothesayer\Audio Files\soothsayer7thick-guitar.mp3" 1
+      >
+    >
+  >
+  <TRACK {FF564BFC-A9FA-481C-94CD-9E9933D0059A}
+    NAME gman-hiddenv7
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.57736712470457 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FF564BFC-A9FA-481C-94CD-9E9933D0059A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1305 60 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: EZdrummer (Toontrack) (32 out)" EZdrummer.dll 0 "" 1684432997<56535464666865657A6472756D6D6572> ""
+        ZWhmZO5e7f4AAAAAIAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAACAAAAAAAA
+        AAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAA
+        AABAAAAAAAAAAIAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAACGCwAAAQAAACYAEAA=
+        dmVyc2lvbiAxCkVaWCAiRVpYX01ldGFsTWFjaGluZSIKaHVtYW5pemUgMQpwb3MgIktpY2tSIiAiS2ljazEtUiIKcG9zICJLaWNrTCIgIktpY2sxLUwiCnBvcyAiU25h
+        cmUiICJTbmFyZTEiCnBvcyAiSGF0cyIgIkhhdHMzIgpwb3MgIlRvbTEiICJUb20xLTEiCnBvcyAiVG9tMiIgIlRvbTEtMiIKcG9zICJUb20zIiAiVG9tMS0zIgpwb3Mg
+        IlRvbTQiICJUb20xLTQiCnBvcyAiVG9tNSIgIlRvbTQtNCIKcG9zICJSaWRlNCIgIlJpZGUyIgpwb3MgIkNyYXNoMSIgIjE3U2FiaWFuMSIKcG9zICJDcmFzaDIiICIx
+        OVNhYmlhbjIiCnBvcyAiQ3Jhc2gzIiAiMTlTYWJpYW4zIgpwb3MgIkNyYXNoNCIgIjIwU2FiaWFuNCIKcG9zICJDcmFzaDUiICIyMFNhYmlhbjUiCnBvcyAiQ3Jhc2g2
+        IiAiMTlTYWJpYW42Igpwb3MgIkNoaW5hMSIgIkNoaW5hLTIiCnBvcyAiQ2hpbmEyIiAiQ2hpbmEtNiIKcG9zICJTcGxhc2giICJTcGxhc2giCnBvcyAiU3BvY2siICJT
+        cG9jazEiCm1peGVyIHsKYnVzcyAwIHsKcGFuIDAKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxIHsKcGFuIDEKdm9s
+        dW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAyIHsKcGFuIDAKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUg
+        MApyb3V0ZSAwCn0KYnVzcyAzIHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyA0IHsKcGFuIDAKdm9sdW1l
+        IDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyA1IHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApy
+        b3V0ZSAwCn0KYnVzcyA2IHsKcGFuIDAuMgp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDcgewpwYW4gMC4yCnZvbHVt
+        ZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgOCB7CnBhbiAwCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAK
+        cm91dGUgMAp9CmJ1c3MgOSB7CnBhbiAxCnZvbHVtZSAxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMTAgewpwYW4gMAp2b2x1bWUg
+        MQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDExIHsKcGFuIDEKdm9sdW1lIDEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApy
+        b3V0ZSAwCn0KYnVzcyAxMiB7CnBhbiAwCnZvbHVtZSAwLjQ3NTI1MQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDEzIHsKcGFuIDEK
+        dm9sdW1lIDAuNDc1MjUxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMjQgewpwYW4gMC41CnZvbHVtZSAwLjY1MzcwOQpwaGFzZXJl
+        dmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDI1IHsKcGFuIDAuNQp2b2x1bWUgMC42NTM3MDkKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApy
+        b3V0ZSAwCn0KYnVzcyAyNiB7CnBhbiAwLjEKdm9sdW1lIDAuNjUzNzA5CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMjcgewpwYW4g
+        MC4xCnZvbHVtZSAwLjY1MzcwOQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDI4IHsKcGFuIDAuOQp2b2x1bWUgMC42NTM3MDkKcGhh
+        c2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAyOSB7CnBhbiAwLjkKdm9sdW1lIDAuNjUzNzA5CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRl
+        IDAKcm91dGUgMAp9CmJ1c3MgMzAgewpwYW4gMAp2b2x1bWUgMC4zODQyNTEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAzMSB7CnBh
+        biAxCnZvbHVtZSAwLjM4NDI1MQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQp9CkVaMXN0dWZmRU5EIHsKfQpzYW1wbGVyIHsKbWFzdGVydm9s
+        IDEKcmV2ZXJzZSAwCnByZXNldCAiQmFzaWMiCmtub2IgMCAwLjU2Cmtub2IgMSAxCmRydW1wcm9wcyB7CiJYUGVyYy0wIiB4ICJFWlhQX0VaZHJ1bW1lcjJfUGVyY3Vz
+        c2lvbiIgIk9uZXNob3QiICJDbGFwczIiCiJYUGVyYy0xIiB4ICJFWlhQX0VaZHJ1bW1lcjJfUGVyY3Vzc2lvbiIgIlNoYWtlciIgIlNoYWtlcjEiCiJYUGVyYy0yIiB4
+        ICJFWlhQX0VaZHJ1bW1lcjJfUGVyY3Vzc2lvbiIgIlRhbWJvdXJpbmUiICJUYW1iMSIKfQp9CmVkcnVtIG5vbmUgbm9uZQptaWRpbGVhcm4gewp9CkVkaXRvciB7IApT
+        b25nVHJhY2sgewpWaXNpYmxlQXJlYSAwIDY1ClRyYWNrTmFtZSAiIgpDbGVhclRyYWNrRmlyc3QKVGltZVNpZyA0IDQKR3JpZFJlcyAzMgpMb29wQXJlYSAwIDAKTG9v
+        cEFjdGl2ZSAwCn0KVmlzaWJsZVJlc3VsdENvbHVtbnMgMTYsMjgsMCwwOzE3LDI4LDAsMDswLDE4NSwwLDA7MTEsMjAwLDAsMDs0LDE1MCwwLDA7NiwxMzAsMCwwOzcs
+        NDUsMCwwOzgsNDUsMCwwOzMsNDUsMCwwOwpWaXNpYmxlRmlsdGVyQ29sdW1ucyA0Ozc7NTsxOzU7Mjs2OzI7CkJyb3dzZXJIZWlnaHQgMTY2ClNlbGVjdGVkVGFncyAs
+        MCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAs
+        MCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwClNlbGVjdGVkRmlsZSAKU2VsZWN0ZWRCcm93c2VyUGF0aCAiIgpCcm93c2Vy
+        SW50ZW5zaXR5IDA7MzM7MDs1MzsKQ2xlYXJUYXAyRmluZApCcm93c2VySXNGYXZvcml0ZSAwClByZXZpZXdJbk9yaWdpbmFsVGVtcG8gMApDbGVhclNvbmdDcmVhdG9y
+        IDAKVmlzaWJsZVRhYiAxCn0KU3luY1RvSG9zdCAxIDEyMApNaWRpT3V0RW5hYmxlZCAwCk1pZGlJbkNoYW5uZWwgLTEKAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {34022840-7ABC-4D2E-89CC-2B1428A4F065}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07183E58-71CC-4348-A787-3F9B1DCF0FF1}
+      IID 183
+      NAME "Variation 01 - Variation_01-imported.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FD6B239-9F42-46B2-AF8F-EB26F68DFC4A}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {7774E6CC-6567-4B6F-9784-B12E583E56E2}
+        <X 0 0 0 0 3 "Variation 01"
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 7b
+        E 4 90 31 7d
+        E 116 90 24 00
+        E 3 90 31 00
+        E 370 90 26 2f
+        E 120 90 26 00
+        E 357 90 3e 44
+        E 120 90 3e 00
+        E 352 90 26 0e
+        E 120 90 26 00
+        E 366 90 26 7e
+        E 16 90 3e 7c
+        E 104 90 26 00
+        E 16 90 3e 00
+        E 356 90 26 23
+        E 120 90 26 00
+        E 350 90 3e 38
+        E 120 90 3e 00
+        E 338 90 24 67
+        E 120 90 24 00
+        E 379 90 26 16
+        E 4 90 3e 49
+        E 116 90 26 00
+        E 4 90 3e 00
+        E 343 90 26 0e
+        E 120 90 26 00
+        E 371 90 24 6f
+        E 10 90 3e 3f
+        E 110 90 24 00
+        E 10 90 3e 00
+        E 353 90 26 14
+        E 120 90 26 00
+        E 354 90 3e 7c
+        E 7 90 26 7e
+        E 113 90 3e 00
+        E 7 90 26 00
+        E 365 90 26 46
+        E 120 90 26 00
+        E 361 90 3e 30
+        E 120 90 3e 00
+        E 334 90 24 63
+        E 120 90 24 00
+        E 371 90 24 6f
+        E 14 90 3e 5f
+        E 106 90 24 00
+        E 14 90 3e 00
+        E 354 90 26 28
+        E 120 90 26 00
+        E 358 90 3e 3a
+        E 120 90 3e 00
+        E 843 90 26 7e
+        E 6 90 3e 7c
+        E 114 90 26 00
+        E 6 90 3e 00
+        E 346 90 26 34
+        E 120 90 26 00
+        E 369 90 3e 31
+        E 120 90 3e 00
+        E 340 90 24 68
+        E 120 90 24 00
+        E 378 90 3e 42
+        E 120 90 3e 00
+        E 365 90 26 1b
+        E 120 90 26 00
+        E 350 90 24 78
+        E 21 90 3e 32
+        E 99 90 24 00
+        E 21 90 3e 00
+        E 332 90 26 1b
+        E 120 90 26 00
+        E 373 90 26 7d
+        E 11 90 3e 7c
+        E 109 90 26 00
+        E 11 90 3e 00
+        E 351 90 26 3f
+        E 120 90 26 00
+        E 370 90 3e 3a
+        E 120 90 3e 00
+        E 351 90 26 29
+        E 120 90 26 00
+        E 114 90 26 19
+        E 120 90 26 00
+        E 114 90 24 7b
+        E 22 90 3e 69
+        E 98 90 24 00
+        E 22 90 3e 00
+        E 836 90 3e 32
+        E 120 90 3e 00
+        E 825 90 26 7e
+        E 12 90 3e 7c
+        E 108 90 26 00
+        E 12 90 3e 00
+        E 343 90 26 29
+        E 120 90 26 00
+        E 370 90 3e 3a
+        E 120 90 3e 00
+        E 331 90 24 6b
+        E 120 90 24 00
+        E 383 90 3e 51
+        E 120 90 3e 00
+        E 346 90 26 1d
+        E 120 90 26 00
+        E 382 90 24 78
+        E 7 90 3e 65
+        E 113 90 24 00
+        E 7 90 3e 00
+        E 343 90 26 1d
+        E 120 90 26 00
+        E 369 90 26 7e
+        E 8 90 3e 7c
+        E 112 90 26 00
+        E 8 90 3e 00
+        E 339 90 26 15
+        E 120 90 26 00
+        E 369 90 3e 3c
+        E 1 90 26 0a
+        E 119 90 3e 00
+        E 1 90 26 00
+        E 370 90 26 2a
+        E 120 90 26 00
+        E 343 90 3e 5f
+        E 1 90 24 7b
+        E 119 90 3e 00
+        E 1 90 24 00
+        E 377 90 26 1c
+        E 120 90 26 00
+        E 357 90 3e 42
+        E 120 90 3e 00
+        E 327 90 26 16
+        E 120 90 26 00
+        E 383 90 26 7e
+        E 18 90 3e 7c
+        E 102 90 26 00
+        E 18 90 3e 00
+        E 345 90 26 22
+        E 120 90 26 00
+        E 358 90 3e 35
+        E 120 90 3e 00
+        E 371 90 24 6f
+        E 120 90 24 00
+        E 351 90 3e 46
+        E 2 90 26 1e
+        E 118 90 3e 00
+        E 2 90 26 00
+        E 357 90 26 11
+        E 120 90 26 00
+        E 358 90 24 77
+        E 7 90 3e 4f
+        E 113 90 24 00
+        E 7 90 3e 00
+        E 357 90 26 1d
+        E 120 90 26 00
+        E 360 90 26 79
+        E 5 90 19 72
+        E 115 90 26 00
+        E 5 90 19 00
+        E 347 90 24 67
+        E 120 90 24 00
+        E 359 90 1a 79
+        E 9 90 26 7e
+        E 111 90 1a 00
+        E 9 90 26 00
+        E 365 90 24 4a
+        E 120 90 24 00
+        E 347 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {9C467A58-2F96-4972-BF36-0244E3997A5D}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 31
+      >
+    >
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0C7BEC8-303F-40C2-B39B-B4EB7169353A}
+      IID 186
+      NAME "Variation 01 - Variation_01-imported-001.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86B65939-6595-45A6-A497-1ADB1577BEAA}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {C8059556-64DA-4511-B758-66088CD206BE}
+        <X 0 0 0 0 3 "Variation 01"
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 7e
+        E 7 90 31 7d
+        E 113 90 24 00
+        E 7 90 31 00
+        E 333 90 26 37
+        E 120 90 26 00
+        E 378 90 3e 6a
+        E 120 90 3e 00
+        E 360 90 24 7a
+        E 120 90 24 00
+        E 376 90 26 7e
+        E 4 90 3e 7e
+        E 116 90 26 00
+        E 4 90 3e 00
+        E 169 90 26 19
+        E 120 90 26 00
+        E 81 90 3f 35
+        E 120 90 3f 00
+        E 342 90 3e 7b
+        E 120 90 3e 00
+        E 356 90 24 79
+        E 7 90 26 26
+        E 113 90 24 00
+        E 7 90 26 00
+        E 339 90 3e 7c
+        E 120 90 3e 00
+        E 351 90 24 5f
+        E 3 90 26 22
+        E 117 90 24 00
+        E 3 90 26 00
+        E 370 90 3c 7e
+        E 5 90 24 7e
+        E 115 90 3c 00
+        E 5 90 24 00
+        E 301 90 26 2a
+        E 120 90 26 00
+        E 423 90 3e 7c
+        E 0 90 26 7e
+        E 120 90 3e 00
+        E 0 90 26 00
+        E 369 90 3f 31
+        E 120 90 3f 00
+        E 360 90 3e 7a
+        E 120 90 3e 00
+        E 354 90 3f 3b
+        E 6 90 24 5a
+        E 10 90 26 24
+        E 104 90 3f 00
+        E 6 90 24 00
+        E 10 90 26 00
+        E 337 90 24 7e
+        E 2 90 3e 7c
+        E 118 90 24 00
+        E 2 90 3e 00
+        E 349 90 26 2d
+        E 120 90 26 00
+        E 381 90 3e 78
+        E 120 90 3e 00
+        E 361 90 24 64
+        E 120 90 24 00
+        E 348 90 26 7e
+        E 9 90 3e 7c
+        E 111 90 26 00
+        E 9 90 3e 00
+        E 348 90 3f 36
+        E 120 90 3f 00
+        E 365 90 3e 7b
+        E 120 90 3e 00
+        E 354 90 26 2e
+        E 3 90 24 75
+        E 117 90 26 00
+        E 3 90 24 00
+        E 362 90 26 12
+        E 7 90 3e 79
+        E 113 90 26 00
+        E 7 90 3e 00
+        E 343 90 26 32
+        E 7 90 24 5d
+        E 113 90 26 00
+        E 7 90 24 00
+        E 365 90 24 7e
+        E 11 90 3c 7c
+        E 109 90 24 00
+        E 11 90 3c 00
+        E 327 90 26 2d
+        E 120 90 26 00
+        E 393 90 26 7e
+        E 6 90 3e 7d
+        E 114 90 26 00
+        E 6 90 3e 00
+        E 347 90 24 7e
+        E 9 90 3f 33
+        E 111 90 24 00
+        E 9 90 3f 00
+        E 354 90 3c 7c
+        E 120 90 3c 00
+        E 347 90 26 27
+        E 1 90 24 5e
+        E 119 90 26 00
+        E 1 90 24 00
+        E 357 90 24 7e
+        E 19 90 3e 7c
+        E 101 90 24 00
+        E 19 90 3e 00
+        E 331 90 3f 39
+        E 6 90 26 25
+        E 114 90 3f 00
+        E 6 90 26 00
+        E 361 90 3e 77
+        E 6 90 26 2a
+        E 114 90 3e 00
+        E 6 90 26 00
+        E 355 90 24 7a
+        E 120 90 24 00
+        E 370 90 26 7e
+        E 23 90 3e 7d
+        E 97 90 26 00
+        E 23 90 3e 00
+        E 326 90 3f 33
+        E 120 90 3f 00
+        E 378 90 3e 78
+        E 120 90 3e 00
+        E 350 90 24 76
+        E 8 90 26 2f
+        E 112 90 24 00
+        E 8 90 26 00
+        E 356 90 19 72
+        E 120 90 19 00
+        E 349 90 24 5f
+        E 9 90 26 2e
+        E 111 90 24 00
+        E 9 90 26 00
+        E 360 90 24 7e
+        E 0 90 19 7e
+        E 120 90 24 00
+        E 0 90 19 00
+        E 349 90 26 26
+        E 120 90 26 00
+        E 374 90 26 7e
+        E 10 90 19 7e
+        E 110 90 26 00
+        E 10 90 19 00
+        E 350 90 1a 21
+        E 0 90 24 7c
+        E 120 90 1a 00
+        E 0 90 24 00
+        E 361 90 1a 7d
+        E 120 90 1a 00
+        E 352 90 26 36
+        E 7 90 24 64
+        E 113 90 26 00
+        E 7 90 24 00
+        E 353 90 24 7e
+        E 14 90 31 7e
+        E 106 90 24 00
+        E 14 90 31 00
+        E 359 90 1a 2a
+        E 120 90 1a 00
+        E 117 90 26 35
+        E 120 90 26 00
+        E 119 90 1a 7e
+        E 4 90 26 0a
+        E 116 90 1a 00
+        E 4 90 26 00
+        E 360 90 24 7c
+        E 120 90 24 00
+        E 352 90 26 7e
+        E 7 90 39 7e
+        E 113 90 26 00
+        E 7 90 39 00
+        E 324 90 1a 36
+        E 18 90 26 1a
+        E 102 90 1a 00
+        E 18 90 26 00
+        E 370 90 1a 7d
+        E 120 90 1a 00
+        E 359 90 24 7d
+        E 10 90 26 2a
+        E 110 90 24 00
+        E 10 90 26 00
+        E 348 90 3c 75
+        E 120 90 3c 00
+        E 363 90 26 2d
+        E 4 90 24 68
+        E 116 90 26 00
+        E 4 90 24 00
+        E 132 90 26 24
+        E 120 90 26 00
+        E 99 90 24 7e
+        E 13 90 3c 7e
+        E 107 90 24 00
+        E 13 90 3c 00
+        E 355 90 26 6f
+        E 120 90 26 00
+        E 362 90 26 7e
+        E 120 90 26 00
+        E 343 90 2f 74
+        E 120 90 2f 00
+        E 363 90 2b 7b
+        E 120 90 2b 00
+        E 353 90 2b 70
+        E 120 90 2b 00
+        E 372 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {5E138DF0-208B-4E19-9A27-C127FA637537}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 37
+      >
+    >
+    <ITEM
+      POSITION 64
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BCFCF248-D5B4-4F11-B60D-E2C694215F97}
+      IID 185
+      NAME "Variation 03 - Variation_03.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A537F2EE-19A2-4F33-A57C-697ABA1FBD63}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F26B22A2-B757-4292-AEC0-5375DAA3E0EE}
+        <X 0 0 0 0 3 "Variation 03"
+          /wNWYXJpYXRpb24gMDM=
+        >
+        E 0 90 24 7e
+        E 11 90 31 7f
+        E 109 90 24 00
+        E 11 90 31 00
+        E 355 90 2b 52
+        E 120 90 2b 00
+        E 353 90 2b 34
+        E 9 90 15 4e
+        E 111 90 2b 00
+        E 9 90 15 00
+        E 334 90 24 6c
+        E 120 90 24 00
+        E 379 90 15 4c
+        E 12 90 26 7e
+        E 2 90 2b 7e
+        E 106 90 15 00
+        E 12 90 26 00
+        E 2 90 2b 00
+        E 334 90 2b 21
+        E 120 90 2b 00
+        E 353 90 2b 3a
+        E 12 90 15 50
+        E 108 90 2b 00
+        E 12 90 15 00
+        E 358 90 30 7e
+        E 30 90 2b 7e
+        E 90 90 30 00
+        E 30 90 2b 00
+        E 341 90 2b 4c
+        E 3 90 15 53
+        E 117 90 2b 00
+        E 3 90 15 00
+        E 344 90 2f 76
+        E 120 90 2f 00
+        E 367 90 15 4f
+        E 5 90 2b 79
+        E 115 90 15 00
+        E 5 90 2b 00
+        E 351 90 24 6e
+        E 120 90 24 00
+        E 360 90 15 53
+        E 5 90 26 7e
+        E 13 90 2b 7e
+        E 102 90 15 00
+        E 5 90 26 00
+        E 13 90 2b 00
+        E 349 90 2b 1d
+        E 16 90 26 38
+        E 104 90 2b 00
+        E 16 90 26 00
+        E 351 90 2b 30
+        E 17 90 15 50
+        E 103 90 2b 00
+        E 17 90 15 00
+        E 330 90 2b 6e
+        E 120 90 2b 00
+        E 366 90 15 4d
+        E 1 90 24 7e
+        E 6 90 2b 7e
+        E 113 90 15 00
+        E 1 90 24 00
+        E 6 90 2b 00
+        E 832 90 24 76
+        E 6 90 15 4f
+        E 0 90 2b 3b
+        E 114 90 24 00
+        E 6 90 15 00
+        E 0 90 2b 00
+        E 357 90 2b 16
+        E 120 90 2b 00
+        E 352 90 2b 7d
+        E 3 90 26 7e
+        E 14 90 15 50
+        E 103 90 2b 00
+        E 3 90 26 00
+        E 14 90 15 00
+        E 351 90 2b 16
+        E 120 90 2b 00
+        E 364 90 2b 36
+        E 1 90 15 4d
+        E 119 90 2b 00
+        E 1 90 15 00
+        E 359 90 30 7e
+        E 120 90 30 00
+        E 353 90 2b 68
+        E 10 90 15 4f
+        E 110 90 2b 00
+        E 10 90 15 00
+        E 358 90 26 3f
+        E 120 90 26 00
+        E 356 90 2b 7e
+        E 15 90 15 4d
+        E 105 90 2b 00
+        E 15 90 15 00
+        E 333 90 24 6b
+        E 1 90 2b 3c
+        E 119 90 24 00
+        E 1 90 2b 00
+        E 368 90 2b 7e
+        E 2 90 26 7e
+        E 4 90 15 4f
+        E 114 90 2b 00
+        E 2 90 26 00
+        E 4 90 15 00
+        E 332 90 2b 44
+        E 9 90 24 7b
+        E 111 90 2b 00
+        E 9 90 24 00
+        E 147 90 26 27
+        E 120 90 26 00
+        E 92 90 15 51
+        E 1 90 2b 7e
+        E 3 90 2f 74
+        E 116 90 15 00
+        E 1 90 2b 00
+        E 3 90 2f 00
+        E 358 90 2f 5d
+        E 6 90 2b 64
+        E 114 90 2f 00
+        E 6 90 2b 00
+        E 359 90 2b 72
+        E 3 90 15 4f
+        E 4 90 24 7b
+        E 113 90 2b 00
+        E 3 90 15 00
+        E 4 90 24 00
+        E 349 90 2b 3d
+        E 120 90 2b 00
+        E 372 90 24 7e
+        E 8 90 15 4f
+        E 112 90 24 00
+        E 8 90 15 00
+        E 349 90 2b 4b
+        E 120 90 2b 00
+        E 365 90 2b 7c
+        E 2 90 15 4d
+        E 4 90 26 7e
+        E 114 90 2b 00
+        E 2 90 15 00
+        E 4 90 26 00
+        E 338 90 2b 3a
+        E 120 90 2b 00
+        E 376 90 2b 6b
+        E 10 90 15 4f
+        E 110 90 2b 00
+        E 10 90 15 00
+        E 355 90 30 7e
+        E 120 90 30 00
+        E 356 90 2b 73
+        E 7 90 15 4f
+        E 113 90 2b 00
+        E 7 90 15 00
+        E 355 90 26 5c
+        E 120 90 26 00
+        E 356 90 2b 7e
+        E 8 90 15 4f
+        E 1 90 24 6c
+        E 111 90 2b 00
+        E 8 90 15 00
+        E 1 90 24 00
+        E 357 90 24 78
+        E 9 90 2b 2e
+        E 111 90 24 00
+        E 9 90 2b 00
+        E 346 90 26 7e
+        E 1 90 2b 7e
+        E 5 90 15 4d
+        E 114 90 26 00
+        E 1 90 2b 00
+        E 5 90 15 00
+        E 359 90 24 7e
+        E 12 90 2b 17
+        E 108 90 24 00
+        E 12 90 2b 00
+        E 338 90 2f 7b
+        E 9 90 2b 7d
+        E 5 90 15 4f
+        E 106 90 2f 00
+        E 9 90 2b 00
+        E 5 90 15 00
+        E 343 90 2b 5f
+        E 120 90 2b 00
+        E 116 90 2b 78
+        E 120 90 2b 00
+        E 129 90 24 7e
+        E 10 90 15 4d
+        E 1 90 39 7e
+        E 109 90 24 00
+        E 10 90 15 00
+        E 1 90 39 00
+        E 354 90 26 34
+        E 120 90 26 00
+        E 357 90 24 7d
+        E 4 90 2b 44
+        E 3 90 15 52
+        E 113 90 24 00
+        E 4 90 2b 00
+        E 3 90 15 00
+        E 355 90 2b 15
+        E 120 90 2b 00
+        E 359 90 26 7d
+        E 7 90 2b 7e
+        E 7 90 15 4e
+        E 6 90 39 7e
+        E 100 90 26 00
+        E 7 90 2b 00
+        E 7 90 15 00
+        E 6 90 39 00
+        E 327 90 2b 1f
+        E 120 90 2b 00
+        E 358 90 15 4d
+        E 2 90 2b 61
+        E 118 90 15 00
+        E 2 90 2b 00
+        E 371 90 30 7e
+        E 120 90 30 00
+        E 362 90 15 53
+        E 7 90 2b 5e
+        E 113 90 15 00
+        E 7 90 2b 00
+        E 345 90 24 6d
+        E 2 90 2b 28
+        E 118 90 24 00
+        E 2 90 2b 00
+        E 68 90 26 1f
+        E 120 90 26 00
+        E 183 90 24 7d
+        E 8 90 2b 7e
+        E 6 90 15 4c
+        E 106 90 24 00
+        E 8 90 2b 00
+        E 6 90 15 00
+        E 332 90 2b 2b
+        E 120 90 2b 00
+        E 367 90 26 7e
+        E 3 90 15 50
+        E 2 90 2b 7e
+        E 115 90 26 00
+        E 3 90 15 00
+        E 2 90 2b 00
+        E 356 90 2f 41
+        E 120 90 2f 00
+        E 120 90 2f 6f
+        E 120 90 2f 00
+        E 121 90 2f 7a
+        E 1 90 15 50
+        E 119 90 2f 00
+        E 1 90 15 00
+        E 107 90 2f 74
+        E 120 90 2f 00
+        E 127 90 2b 7a
+        E 120 90 2b 00
+        E 112 90 2b 65
+        E 120 90 2b 00
+        E 130 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {3FA59F53-626C-4059-84C6-B8D8C348A684}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 35
+      >
+    >
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {334BE17D-23F7-4DA7-8FCF-A2E3A66A4327}
+      IID 179
+      NAME "Variation 07 - Variation_07.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D1B3FDD-C02D-4363-83E4-48DABE2D3414}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {75AE3DB9-38E7-480B-A48B-D792A31F2C77}
+        <X 0 0 0 0 3 "Variation 07"
+          /wNWYXJpYXRpb24gMDc=
+        >
+        E 0 90 24 7f
+        E 8 90 15 7f
+        E 6 90 39 7f
+        E 1 90 31 7f
+        E 108 90 24 00
+        E 8 90 15 00
+        E 6 90 39 00
+        E 1 90 31 00
+        E 333 90 15 22
+        E 13 90 33 67
+        E 109 90 15 00
+        E 14 90 33 00
+        E 337 90 15 7f
+        E 21 90 24 7f
+        E 17 90 35 7f
+        E 85 90 15 00
+        E 20 90 24 00
+        E 18 90 35 00
+        E 345 90 3c 7c
+        E 123 90 3c 00
+        E 336 90 24 10
+        E 16 90 15 7f
+        E 7 90 26 7f
+        E 21 90 33 7f
+        E 78 90 24 00
+        E 16 90 15 00
+        E 8 90 26 00
+        E 20 90 33 00
+        E 311 90 15 1f
+        E 29 90 35 5b
+        E 93 90 15 00
+        E 30 90 35 00
+        E 315 90 15 7f
+        E 43 90 33 7f
+        E 79 90 15 00
+        E 44 90 33 00
+        E 310 90 24 75
+        E 14 90 35 4c
+        E 13 90 15 1f
+        E 95 90 24 00
+        E 15 90 35 00
+        E 13 90 15 00
+        E 337 90 24 7f
+        E 16 90 33 7f
+        E 7 90 15 7f
+        E 100 90 24 00
+        E 15 90 33 00
+        E 8 90 15 00
+        E 92 90 26 08
+        E 123 90 26 00
+        E 108 90 15 28
+        E 3 90 35 52
+        E 120 90 15 00
+        E 3 90 35 00
+        E 117 90 26 39
+        E 122 90 26 00
+        E 9 90 26 2f
+        E 105 90 24 7f
+        E 10 90 15 6b
+        E 8 90 26 00
+        E 7 90 26 27
+        E 7 90 35 7f
+        E 91 90 24 00
+        E 10 90 15 00
+        E 14 90 26 00
+        E 8 90 35 00
+        E 146 90 26 1c
+        E 122 90 26 00
+        E 50 90 24 7f
+        E 1 90 15 28
+        E 15 90 33 68
+        E 106 90 24 00
+        E 2 90 15 00
+        E 14 90 33 00
+        E 351 90 26 7f
+        E 2 90 15 30
+        E 26 90 31 7f
+        E 95 90 26 00
+        E 1 90 15 00
+        E 26 90 31 00
+        E 114 90 24 68
+        E 123 90 24 00
+        E 93 90 24 7b
+        E 9 90 33 63
+        E 113 90 24 00
+        E 9 90 33 00
+        E 349 90 24 70
+        E 23 90 33 74
+        E 99 90 24 00
+        E 24 90 33 00
+        E 355 90 24 7f
+        E 22 90 31 7f
+        E 1 90 39 7f
+        E 99 90 24 00
+        E 22 90 31 00
+        E 2 90 39 00
+        E 347 90 26 57
+        E 124 90 26 00
+        E 330 90 24 78
+        E 53 90 33 7a
+        E 71 90 24 00
+        E 53 90 33 00
+        E 299 90 24 7f
+        E 31 90 33 7f
+        E 93 90 24 00
+        E 31 90 33 00
+        E 341 90 33 50
+        E 124 90 33 00
+        E 353 90 26 7f
+        E 1 90 15 7f
+        E 16 90 33 7f
+        E 106 90 26 00
+        E 2 90 15 00
+        E 16 90 33 00
+        E 347 90 35 74
+        E 124 90 35 00
+        E 367 90 24 7a
+        E 22 90 3c 7d
+        E 102 90 24 00
+        E 22 90 3c 00
+        E 314 90 24 7b
+        E 12 90 15 25
+        E 17 90 33 61
+        E 94 90 24 00
+        E 12 90 15 00
+        E 18 90 33 00
+        E 330 90 24 7f
+        E 25 90 35 7f
+        E 99 90 24 00
+        E 25 90 35 00
+        E 341 90 33 48
+        E 124 90 33 00
+        E 342 90 24 7f
+        E 10 90 35 7f
+        E 113 90 24 00
+        E 11 90 35 00
+        E 357 90 24 7f
+        E 13 90 33 60
+        E 111 90 24 00
+        E 12 90 33 00
+        E 26 90 24 6d
+        E 118 90 24 00
+        E 0 90 24 7c
+        E 0 90 24 00
+        E 187 90 26 7f
+        E 24 90 34 7f
+        E 100 90 26 00
+        E 23 90 34 00
+        E 140 90 26 32
+        E 124 90 26 00
+        E 85 90 33 5e
+        E 123 90 33 00
+        E 135 90 26 41
+        E 123 90 26 00
+        E 94 90 24 7f
+        E 17 90 33 7f
+        E 106 90 24 00
+        E 18 90 33 00
+        E 351 90 24 7f
+        E 27 90 34 7f
+        E 1 90 31 7f
+        E 96 90 24 00
+        E 26 90 34 00
+        E 1 90 31 00
+        E 327 90 26 3b
+        E 122 90 26 00
+        E 370 90 24 73
+        E 24 90 35 6b
+        E 98 90 24 00
+        E 24 90 35 00
+        E 319 90 24 7f
+        E 16 90 33 7f
+        E 106 90 24 00
+        E 16 90 33 00
+        E 363 90 35 79
+        E 122 90 35 00
+        E 330 90 26 7f
+        E 32 90 33 7f
+        E 90 90 26 00
+        E 32 90 33 00
+        E 354 90 33 42
+        E 122 90 33 00
+        E 362 90 35 7f
+        E 122 90 35 00
+        E 333 90 24 74
+        E 39 90 33 41
+        E 84 90 24 00
+        E 38 90 33 00
+        E 157 90 26 20
+        E 122 90 26 00
+        E 43 90 24 7f
+        E 33 90 33 7f
+        E 89 90 24 00
+        E 34 90 33 00
+        E 59 90 26 38
+        E 122 90 26 00
+        E 144 90 33 50
+        E 123 90 33 00
+        E 1 90 26 2e
+        E 122 90 26 00
+        E 23 90 26 25
+        E 123 90 26 00
+        E 58 90 24 7f
+        E 48 90 33 7f
+        E 74 90 24 00
+        E 48 90 33 00
+        E 71 90 26 4a
+        E 123 90 26 00
+        E 101 90 24 7f
+        E 25 90 33 51
+        E 98 90 24 00
+        E 24 90 33 00
+        E 356 90 24 78
+        E 13 90 26 7f
+        E 20 90 35 7f
+        E 89 90 24 00
+        E 13 90 26 00
+        E 21 90 35 00
+        E 100 90 26 36
+        E 122 90 26 00
+        E 98 90 24 7f
+        E 15 90 33 4f
+        E 108 90 24 00
+        E 14 90 33 00
+        E 334 90 24 78
+        E 41 90 39 7f
+        E 82 90 24 00
+        E 41 90 39 00
+        E 311 90 24 79
+        E 7 90 31 7c
+        E 115 90 24 00
+        E 7 90 31 00
+        E 390 90 24 7f
+        E 16 90 34 7f
+        E 108 90 24 00
+        E 16 90 34 00
+        E 319 90 24 72
+        E 16 90 33 7a
+        E 108 90 24 00
+        E 16 90 33 00
+        E 354 90 24 7f
+        E 26 90 33 7f
+        E 98 90 24 00
+        E 26 90 33 00
+        E 346 90 24 78
+        E 15 90 33 5f
+        E 109 90 24 00
+        E 15 90 33 00
+        E 336 90 26 7f
+        E 24 90 31 7f
+        E 100 90 26 00
+        E 24 90 31 00
+        E 102 90 26 28
+        E 124 90 26 00
+        E 119 90 33 61
+        E 124 90 33 00
+        E 349 90 33 7f
+        E 124 90 33 00
+        E 338 90 24 73
+        E 16 90 33 7b
+        E 108 90 24 00
+        E 15 90 33 00
+        E 118 90 26 22
+        E 124 90 26 00
+        E 107 90 24 7d
+        E 10 90 33 7f
+        E 113 90 24 00
+        E 10 90 33 00
+        E 361 90 26 7d
+        E 123 90 26 00
+        E 369 90 35 7f
+        E 123 90 35 00
+        E 131 90 26 54
+        E 123 90 26 00
+        E 66 90 24 7f
+        E 34 90 33 67
+        E 89 90 24 00
+        E 34 90 33 00
+        E 311 90 26 10
+        E 32 90 24 7f
+        E 6 90 35 7f
+        E 84 90 26 00
+        E 33 90 24 00
+        E 6 90 35 00
+        E 345 90 24 78
+        E 16 90 2d 7d
+        E 14 90 26 7e
+        E 92 90 24 00
+        E 16 90 2d 00
+        E 15 90 26 00
+        E 329 90 24 7f
+        E 9 90 2b 7f
+        E 14 90 26 7f
+        E 100 90 24 00
+        E 9 90 2b 00
+        E 14 90 26 00
+        E 350 90 24 76
+        E 18 90 34 7b
+        E 105 90 24 00
+        E 18 90 34 00
+        E 318 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {DF037BEA-F6B4-4B4B-A203-72A31B70D0D8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+      >
+    >
+    <ITEM
+      POSITION 96
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3AC1907-E7EB-4725-AEAF-A48AD055A6CD}
+      IID 187
+      NAME "Variation 01 - Variation_01-imported-001.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD5A5215-0E1A-414C-8152-9945114A792B}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {28C0F017-51A3-47D3-B919-DB6DB22C4064}
+        <X 0 0 0 0 3 "Variation 01"
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 7e
+        E 7 90 31 7d
+        E 113 90 24 00
+        E 7 90 31 00
+        E 333 90 26 37
+        E 120 90 26 00
+        E 378 90 3e 6a
+        E 120 90 3e 00
+        E 360 90 24 7a
+        E 120 90 24 00
+        E 376 90 26 7e
+        E 4 90 3e 7e
+        E 116 90 26 00
+        E 4 90 3e 00
+        E 169 90 26 19
+        E 120 90 26 00
+        E 81 90 3f 35
+        E 120 90 3f 00
+        E 342 90 3e 7b
+        E 120 90 3e 00
+        E 356 90 24 79
+        E 7 90 26 26
+        E 113 90 24 00
+        E 7 90 26 00
+        E 339 90 3e 7c
+        E 120 90 3e 00
+        E 351 90 24 5f
+        E 3 90 26 22
+        E 117 90 24 00
+        E 3 90 26 00
+        E 370 90 3c 7e
+        E 5 90 24 7e
+        E 115 90 3c 00
+        E 5 90 24 00
+        E 301 90 26 2a
+        E 120 90 26 00
+        E 423 90 3e 7c
+        E 0 90 26 7e
+        E 120 90 3e 00
+        E 0 90 26 00
+        E 369 90 3f 31
+        E 120 90 3f 00
+        E 360 90 3e 7a
+        E 120 90 3e 00
+        E 354 90 3f 3b
+        E 6 90 24 5a
+        E 10 90 26 24
+        E 104 90 3f 00
+        E 6 90 24 00
+        E 10 90 26 00
+        E 337 90 24 7e
+        E 2 90 3e 7c
+        E 118 90 24 00
+        E 2 90 3e 00
+        E 349 90 26 2d
+        E 120 90 26 00
+        E 381 90 3e 78
+        E 120 90 3e 00
+        E 361 90 24 64
+        E 120 90 24 00
+        E 348 90 26 7e
+        E 9 90 3e 7c
+        E 111 90 26 00
+        E 9 90 3e 00
+        E 348 90 3f 36
+        E 120 90 3f 00
+        E 365 90 3e 7b
+        E 120 90 3e 00
+        E 354 90 26 2e
+        E 3 90 24 75
+        E 117 90 26 00
+        E 3 90 24 00
+        E 362 90 26 12
+        E 7 90 3e 79
+        E 113 90 26 00
+        E 7 90 3e 00
+        E 343 90 26 32
+        E 7 90 24 5d
+        E 113 90 26 00
+        E 7 90 24 00
+        E 365 90 24 7e
+        E 11 90 3c 7c
+        E 109 90 24 00
+        E 11 90 3c 00
+        E 327 90 26 2d
+        E 120 90 26 00
+        E 393 90 26 7e
+        E 6 90 3e 7d
+        E 114 90 26 00
+        E 6 90 3e 00
+        E 347 90 24 7e
+        E 9 90 3f 33
+        E 111 90 24 00
+        E 9 90 3f 00
+        E 354 90 3c 7c
+        E 120 90 3c 00
+        E 347 90 26 27
+        E 1 90 24 5e
+        E 119 90 26 00
+        E 1 90 24 00
+        E 357 90 24 7e
+        E 19 90 3e 7c
+        E 101 90 24 00
+        E 19 90 3e 00
+        E 331 90 3f 39
+        E 6 90 26 25
+        E 114 90 3f 00
+        E 6 90 26 00
+        E 361 90 3e 77
+        E 6 90 26 2a
+        E 114 90 3e 00
+        E 6 90 26 00
+        E 355 90 24 7a
+        E 120 90 24 00
+        E 370 90 26 7e
+        E 23 90 3e 7d
+        E 97 90 26 00
+        E 23 90 3e 00
+        E 326 90 3f 33
+        E 120 90 3f 00
+        E 378 90 3e 78
+        E 120 90 3e 00
+        E 350 90 24 76
+        E 8 90 26 2f
+        E 112 90 24 00
+        E 8 90 26 00
+        E 356 90 19 72
+        E 120 90 19 00
+        E 349 90 24 5f
+        E 9 90 26 2e
+        E 111 90 24 00
+        E 9 90 26 00
+        E 360 90 24 7e
+        E 0 90 19 7e
+        E 120 90 24 00
+        E 0 90 19 00
+        E 349 90 26 26
+        E 120 90 26 00
+        E 374 90 26 7e
+        E 10 90 19 7e
+        E 110 90 26 00
+        E 10 90 19 00
+        E 350 90 1a 21
+        E 0 90 24 7c
+        E 120 90 1a 00
+        E 0 90 24 00
+        E 361 90 1a 7d
+        E 120 90 1a 00
+        E 352 90 26 36
+        E 7 90 24 64
+        E 113 90 26 00
+        E 7 90 24 00
+        E 353 90 24 7e
+        E 14 90 31 7e
+        E 106 90 24 00
+        E 14 90 31 00
+        E 359 90 1a 2a
+        E 120 90 1a 00
+        E 117 90 26 35
+        E 120 90 26 00
+        E 119 90 1a 7e
+        E 4 90 26 0a
+        E 116 90 1a 00
+        E 4 90 26 00
+        E 360 90 24 7c
+        E 120 90 24 00
+        E 352 90 26 7e
+        E 7 90 39 7e
+        E 113 90 26 00
+        E 7 90 39 00
+        E 324 90 1a 36
+        E 18 90 26 1a
+        E 102 90 1a 00
+        E 18 90 26 00
+        E 370 90 1a 7d
+        E 120 90 1a 00
+        E 359 90 24 7d
+        E 10 90 26 2a
+        E 110 90 24 00
+        E 10 90 26 00
+        E 348 90 3c 75
+        E 120 90 3c 00
+        E 363 90 26 2d
+        E 4 90 24 68
+        E 116 90 26 00
+        E 4 90 24 00
+        E 132 90 26 24
+        E 120 90 26 00
+        E 99 90 24 7e
+        E 13 90 3c 7e
+        E 107 90 24 00
+        E 13 90 3c 00
+        E 355 90 26 6f
+        E 120 90 26 00
+        E 362 90 26 7e
+        E 120 90 26 00
+        E 343 90 2f 74
+        E 120 90 2f 00
+        E 363 90 2b 7b
+        E 120 90 2b 00
+        E 353 90 2b 70
+        E 120 90 2b 00
+        E 372 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FF09A8DA-57CB-4AF5-9D8F-60A6B692CAF8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 39
+      >
+    >
+    <ITEM
+      POSITION 112
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {1210CBAD-2635-4D44-B70C-0CAAEF98CBAF}
+      IID 188
+      NAME "Variation 04 - Variation_04.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3150E097-9362-45E7-A8FC-F93C9BE7DE70}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {3A71B8F7-934C-4645-9E73-6C85D0B9F427}
+        <X 0 0 0 0 3 "Variation 04"
+          /wNWYXJpYXRpb24gMDQ=
+        >
+        E 0 90 24 7e
+        E 13 90 31 7e
+        E 4 90 15 4d
+        E 21 90 39 7e
+        E 82 90 24 00
+        E 13 90 31 00
+        E 4 90 15 00
+        E 21 90 39 00
+        E 331 90 2b 3b
+        E 120 90 2b 00
+        E 342 90 2b 74
+        E 9 90 24 7c
+        E 12 90 15 50
+        E 99 90 2b 00
+        E 9 90 24 00
+        E 12 90 15 00
+        E 345 90 2b 2f
+        E 120 90 2b 00
+        E 365 90 2b 7e
+        E 3 90 26 7e
+        E 0 90 15 4d
+        E 117 90 2b 00
+        E 3 90 26 00
+        E 0 90 15 00
+        E 352 90 2b 2a
+        E 120 90 2b 00
+        E 355 90 2b 4a
+        E 10 90 15 51
+        E 110 90 2b 00
+        E 10 90 15 00
+        E 351 90 2f 7e
+        E 15 90 2b 7e
+        E 105 90 2f 00
+        E 15 90 2b 00
+        E 351 90 15 4f
+        E 8 90 2b 3f
+        E 112 90 15 00
+        E 8 90 2b 00
+        E 350 90 26 3d
+        E 120 90 26 00
+        E 361 90 24 68
+        E 7 90 2b 7c
+        E 3 90 15 4d
+        E 110 90 24 00
+        E 7 90 2b 00
+        E 3 90 15 00
+        E 350 90 24 7e
+        E 2 90 2b 3a
+        E 118 90 24 00
+        E 2 90 2b 00
+        E 352 90 26 7e
+        E 7 90 15 50
+        E 4 90 2b 7e
+        E 109 90 26 00
+        E 7 90 15 00
+        E 4 90 2b 00
+        E 363 90 2b 31
+        E 120 90 2b 00
+        E 357 90 2b 7d
+        E 5 90 15 4b
+        E 115 90 2b 00
+        E 5 90 15 00
+        E 352 90 2b 56
+        E 120 90 2b 00
+        E 122 90 2b 70
+        E 120 90 2b 00
+        E 120 90 2b 7e
+        E 1 90 15 52
+        E 5 90 24 7e
+        E 114 90 2b 00
+        E 1 90 15 00
+        E 5 90 24 00
+        E 342 90 2b 46
+        E 120 90 2b 00
+        E 359 90 24 7b
+        E 15 90 15 4c
+        E 2 90 2b 55
+        E 103 90 24 00
+        E 15 90 15 00
+        E 2 90 2b 00
+        E 353 90 2b 3d
+        E 120 90 2b 00
+        E 351 90 15 50
+        E 2 90 26 7e
+        E 2 90 2b 7e
+        E 116 90 15 00
+        E 2 90 26 00
+        E 2 90 2b 00
+        E 357 90 2b 3c
+        E 120 90 2b 00
+        E 368 90 2b 6e
+        E 13 90 15 4c
+        E 107 90 2b 00
+        E 13 90 15 00
+        E 346 90 2f 7e
+        E 120 90 2f 00
+        E 359 90 2b 61
+        E 2 90 15 51
+        E 118 90 2b 00
+        E 2 90 15 00
+        E 361 90 26 66
+        E 120 90 26 00
+        E 360 90 24 6a
+        E 10 90 15 4c
+        E 1 90 2b 64
+        E 109 90 24 00
+        E 10 90 15 00
+        E 1 90 2b 00
+        E 335 90 24 7d
+        E 15 90 2b 30
+        E 105 90 24 00
+        E 15 90 2b 00
+        E 355 90 2b 7a
+        E 11 90 26 7e
+        E 5 90 15 51
+        E 104 90 2b 00
+        E 11 90 26 00
+        E 5 90 15 00
+        E 338 90 2b 46
+        E 16 90 26 2a
+        E 104 90 2b 00
+        E 16 90 26 00
+        E 352 90 2b 7c
+        E 7 90 24 77
+        E 7 90 15 4e
+        E 106 90 2b 00
+        E 7 90 24 00
+        E 7 90 15 00
+        E 350 90 2b 57
+        E 120 90 2b 00
+        E 118 90 2b 72
+        E 120 90 2b 00
+        E 117 90 24 7e
+        E 2 90 2b 7d
+        E 7 90 15 4d
+        E 111 90 24 00
+        E 2 90 2b 00
+        E 7 90 15 00
+        E 359 90 2b 32
+        E 120 90 2b 00
+        E 345 90 24 7b
+        E 5 90 2b 69
+        E 4 90 15 50
+        E 111 90 24 00
+        E 5 90 2b 00
+        E 4 90 15 00
+        E 367 90 2b 2d
+        E 120 90 2b 00
+        E 353 90 2b 7e
+        E 12 90 26 7e
+        E 1 90 15 4f
+        E 107 90 2b 00
+        E 12 90 26 00
+        E 1 90 15 00
+        E 355 90 2b 41
+        E 120 90 2b 00
+        E 355 90 15 50
+        E 1 90 2b 7e
+        E 119 90 15 00
+        E 1 90 2b 00
+        E 366 90 2f 7e
+        E 120 90 2f 00
+        E 347 90 2b 69
+        E 2 90 15 4c
+        E 118 90 2b 00
+        E 2 90 15 00
+        E 355 90 26 73
+        E 120 90 26 00
+        E 363 90 15 50
+        E 1 90 2b 65
+        E 119 90 15 00
+        E 1 90 2b 00
+        E 370 90 24 7e
+        E 0 90 2b 32
+        E 120 90 2b 00
+        E 0 90 24 00
+        E 346 90 2b 7e
+        E 6 90 26 7e
+        E 2 90 15 4c
+        E 112 90 2b 00
+        E 6 90 26 00
+        E 2 90 15 00
+        E 362 90 2b 3f
+        E 120 90 2b 00
+        E 346 90 2b 79
+        E 10 90 15 50
+        E 8 90 24 7c
+        E 102 90 2b 00
+        E 10 90 15 00
+        E 8 90 24 00
+        E 346 90 2b 53
+        E 120 90 2b 00
+        E 125 90 2b 5a
+        E 120 90 2b 00
+        E 115 90 15 4f
+        E 4 90 2b 78
+        E 9 90 24 7e
+        E 107 90 15 00
+        E 4 90 2b 00
+        E 9 90 24 00
+        E 350 90 2b 34
+        E 120 90 2b 00
+        E 358 90 24 79
+        E 6 90 15 4c
+        E 0 90 2b 7c
+        E 114 90 24 00
+        E 6 90 15 00
+        E 0 90 2b 00
+        E 355 90 24 7e
+        E 11 90 2b 30
+        E 109 90 24 00
+        E 11 90 2b 00
+        E 349 90 15 53
+        E 3 90 2b 7e
+        E 5 90 26 7e
+        E 112 90 15 00
+        E 3 90 2b 00
+        E 5 90 26 00
+        E 354 90 24 7e
+        E 6 90 2b 48
+        E 114 90 24 00
+        E 6 90 2b 00
+        E 346 90 30 78
+        E 1 90 15 4f
+        E 10 90 2b 7c
+        E 109 90 30 00
+        E 1 90 15 00
+        E 10 90 2b 00
+        E 355 90 30 7e
+        E 10 90 24 4f
+        E 110 90 30 00
+        E 10 90 24 00
+        E 350 90 2b 4a
+        E 0 90 24 7a
+        E 15 90 15 4e
+        E 105 90 2b 00
+        E 0 90 24 00
+        E 15 90 15 00
+        E 347 90 2b 79
+        E 11 90 2f 74
+        E 109 90 2b 00
+        E 11 90 2f 00
+        E 350 90 2b 7d
+        E 1 90 2f 7e
+        E 0 90 24 6d
+        E 1 90 15 4a
+        E 118 90 2b 00
+        E 1 90 2f 00
+        E 0 90 24 00
+        E 1 90 15 00
+        E 347 90 24 78
+        E 22 90 2b 4e
+        E 98 90 24 00
+        E 22 90 2b 00
+        E 341 90 2b 7e
+        E 17 90 15 51
+        E 2 90 26 7e
+        E 101 90 2b 00
+        E 17 90 15 00
+        E 2 90 26 00
+        E 350 90 2b 5a
+        E 1 90 2f 6b
+        E 0 90 24 5a
+        E 119 90 2b 00
+        E 1 90 2f 00
+        E 0 90 24 00
+        E 360 90 26 76
+        E 0 90 2b 6e
+        E 2 90 24 78
+        E 118 90 2b 00
+        E 0 90 26 00
+        E 2 90 24 00
+        E 381 90 26 7b
+        E 0 90 2b 76
+        E 120 90 2b 00
+        E 0 90 26 00
+        E 337 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {4DD55492-7442-4F9D-9B8B-A6ADA9EFAC01}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 41
+      >
+    >
+    <ITEM
+      POSITION 128
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20431BE5-A966-4B02-9646-3EFD6E5B5E4A}
+      IID 180
+      NAME "Variation 08 - Variation_08.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4864987-0C20-485D-A577-C9AC065AEEB0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {A55C5ABC-9DE9-4773-ADCF-6424ECEF4965}
+        <X 0 0 0 0 3 "Variation 08"
+          /wNWYXJpYXRpb24gMDg=
+        >
+        E 0 90 24 7f
+        E 20 90 31 7f
+        E 17 90 39 7f
+        E 86 90 24 00
+        E 20 90 31 00
+        E 17 90 39 00
+        E 336 90 26 35
+        E 123 90 26 00
+        E 365 90 24 7f
+        E 33 90 33 7f
+        E 90 90 24 00
+        E 33 90 33 00
+        E 342 90 33 47
+        E 123 90 33 00
+        E 332 90 26 7f
+        E 22 90 33 7f
+        E 101 90 26 00
+        E 22 90 33 00
+        E 340 90 33 52
+        E 123 90 33 00
+        E 371 90 35 7f
+        E 123 90 35 00
+        E 317 90 24 7f
+        E 16 90 3c 7e
+        E 107 90 24 00
+        E 16 90 3c 00
+        E 110 90 26 11
+        E 123 90 26 00
+        E 112 90 24 7f
+        E 27 90 15 6c
+        E 19 90 35 7f
+        E 77 90 24 00
+        E 27 90 15 00
+        E 19 90 35 00
+        E 82 90 26 2f
+        E 123 90 26 00
+        E 122 90 33 5b
+        E 123 90 33 00
+        E 26 90 26 3d
+        E 123 90 26 00
+        E 42 90 26 35
+        E 123 90 26 00
+        E 33 90 24 7f
+        E 22 90 35 7f
+        E 101 90 24 00
+        E 22 90 35 00
+        E 110 90 26 0c
+        E 123 90 26 00
+        E 95 90 24 7f
+        E 48 90 33 55
+        E 75 90 24 00
+        E 48 90 33 00
+        E 328 90 26 7f
+        E 26 90 33 7f
+        E 97 90 26 00
+        E 26 90 33 00
+        E 106 90 33 61
+        E 123 90 33 00
+        E 70 90 24 75
+        E 38 90 35 7b
+        E 85 90 24 00
+        E 38 90 35 00
+        E 78 90 26 58
+        E 123 90 26 00
+        E 147 90 24 71
+        E 32 90 35 7d
+        E 91 90 24 00
+        E 32 90 35 00
+        E 317 90 24 7f
+        E 35 90 31 7f
+        E 5 90 39 7f
+        E 82 90 24 00
+        E 35 90 31 00
+        E 6 90 39 00
+        E 769 90 24 77
+        E 44 90 33 59
+        E 79 90 24 00
+        E 44 90 33 00
+        E 360 90 24 7f
+        E 10 90 33 7f
+        E 113 90 24 00
+        E 10 90 33 00
+        E 334 90 33 50
+        E 123 90 33 00
+        E 340 90 26 7f
+        E 13 90 33 7f
+        E 109 90 26 00
+        E 13 90 33 00
+        E 371 90 35 76
+        E 123 90 35 00
+        E 335 90 35 7f
+        E 123 90 35 00
+        E 347 90 24 77
+        E 16 90 33 53
+        E 107 90 24 00
+        E 16 90 33 00
+        E 351 90 24 7f
+        E 23 90 35 7f
+        E 100 90 24 00
+        E 22 90 35 00
+        E 323 90 24 7c
+        E 7 90 33 71
+        E 115 90 24 00
+        E 7 90 33 00
+        E 338 90 24 7f
+        E 7 90 35 7f
+        E 115 90 24 00
+        E 7 90 35 00
+        E 387 90 24 76
+        E 31 90 33 7f
+        E 91 90 24 00
+        E 18 90 24 71
+        E 14 90 33 00
+        E 82 90 24 00
+        E 19 90 24 7d
+        E 123 90 24 00
+        E 82 90 26 7f
+        E 6 90 31 7f
+        E 116 90 26 00
+        E 7 90 31 00
+        E 354 90 24 7f
+        E 41 90 34 7f
+        E 81 90 24 00
+        E 42 90 34 00
+        E 296 90 24 76
+        E 16 90 35 7d
+        E 106 90 24 00
+        E 17 90 35 00
+        E 369 90 24 7f
+        E 29 90 39 7f
+        E 10 90 31 7f
+        E 84 90 24 00
+        E 29 90 39 00
+        E 10 90 31 00
+        E 817 90 24 7a
+        E 32 90 33 67
+        E 90 90 24 00
+        E 32 90 33 00
+        E 331 90 24 7f
+        E 25 90 35 7f
+        E 98 90 24 00
+        E 24 90 35 00
+        E 331 90 33 6f
+        E 122 90 33 00
+        E 317 90 26 7f
+        E 51 90 33 7f
+        E 71 90 26 00
+        E 51 90 33 00
+        E 333 90 33 65
+        E 122 90 33 00
+        E 360 90 24 7b
+        E 37 90 33 7f
+        E 85 90 24 00
+        E 38 90 33 00
+        E 95 90 26 47
+        E 122 90 26 00
+        E 89 90 24 78
+        E 18 90 35 4c
+        E 105 90 24 00
+        E 17 90 35 00
+        E 132 90 26 1a
+        E 123 90 26 00
+        E 88 90 24 7f
+        E 24 90 35 7f
+        E 100 90 24 00
+        E 23 90 35 00
+        E 76 90 26 1a
+        E 123 90 26 00
+        E 117 90 33 53
+        E 124 90 33 00
+        E 25 90 26 33
+        E 123 90 26 00
+        E 69 90 26 24
+        E 124 90 26 00
+        E 20 90 24 7f
+        E 42 90 33 7f
+        E 82 90 24 00
+        E 42 90 33 00
+        E 71 90 26 1e
+        E 124 90 26 00
+        E 111 90 24 7f
+        E 25 90 33 4d
+        E 99 90 24 00
+        E 25 90 33 00
+        E 324 90 26 7f
+        E 13 90 24 7c
+        E 47 90 33 7f
+        E 63 90 26 00
+        E 13 90 24 00
+        E 47 90 33 00
+        E 63 90 26 2a
+        E 124 90 26 00
+        E 98 90 24 7f
+        E 25 90 33 52
+        E 99 90 24 00
+        E 25 90 33 00
+        E 340 90 24 7d
+        E 16 90 31 7f
+        E 107 90 24 00
+        E 16 90 31 00
+        E 133 90 24 70
+        E 123 90 24 00
+        E 104 90 24 7e
+        E 16 90 34 7b
+        E 107 90 24 00
+        E 17 90 34 00
+        E 84 90 24 7d
+        E 124 90 24 00
+        E 135 90 24 7f
+        E 28 90 31 7f
+        E 9 90 39 7f
+        E 87 90 24 00
+        E 27 90 31 00
+        E 9 90 39 00
+        E 68 90 24 7b
+        E 123 90 24 00
+        E 147 90 26 2f
+        E 2 90 24 7f
+        E 24 90 33 7f
+        E 97 90 26 00
+        E 2 90 24 00
+        E 25 90 33 00
+        E 306 90 24 7f
+        E 28 90 33 7f
+        E 96 90 24 00
+        E 27 90 33 00
+        E 343 90 35 7f
+        E 124 90 35 00
+        E 360 90 26 7f
+        E 40 90 34 7f
+        E 83 90 26 00
+        E 40 90 34 00
+        E 99 90 26 4f
+        E 123 90 26 00
+        E 113 90 33 69
+        E 124 90 33 00
+        E 360 90 33 7f
+        E 124 90 33 00
+        E 71 90 26 0e
+        E 124 90 26 00
+        E 108 90 24 77
+        E 27 90 3c 7f
+        E 97 90 24 00
+        E 26 90 3c 00
+        E 191 90 26 2f
+        E 123 90 26 00
+        E 43 90 33 7f
+        E 9 90 24 7f
+        E 4 90 15 5e
+        E 111 90 33 00
+        E 8 90 24 00
+        E 5 90 15 00
+        E 334 90 24 48
+        E 11 90 26 7f
+        E 22 90 39 7f
+        E 91 90 24 00
+        E 11 90 26 00
+        E 22 90 39 00
+        E 98 90 26 23
+        E 124 90 26 00
+        E 117 90 26 05
+        E 12 90 24 7f
+        E 10 90 33 78
+        E 102 90 26 00
+        E 12 90 24 00
+        E 10 90 33 00
+        E 321 90 33 7f
+        E 20 90 24 79
+        E 104 90 33 00
+        E 20 90 24 00
+        E 344 90 26 7f
+        E 2 90 24 7f
+        E 53 90 26 00
+        E 0 90 26 73
+        E 70 90 24 00
+        E 54 90 26 00
+        E 290 90 24 7e
+        E 1 90 2d 7f
+        E 16 90 26 7b
+        E 107 90 24 00
+        E 1 90 2d 00
+        E 16 90 26 00
+        E 347 90 24 76
+        E 9 90 2b 7f
+        E 22 90 26 7f
+        E 93 90 24 00
+        E 9 90 2b 00
+        E 22 90 26 00
+        E 331 90 24 7f
+        E 17 90 2b 7d
+        E 1 90 26 7f
+        E 106 90 24 00
+        E 16 90 2b 00
+        E 2 90 26 00
+        E 333 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {F175DBFF-3532-49B5-8682-F2F368A2899C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 22
+      >
+    >
+    <ITEM
+      POSITION 144
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {31811D09-D9A3-4DAD-A612-1BB746B1750A}
+      IID 128
+      NAME gman-hiddenv7.mid
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBD23A92-4994-4823-A413-590B2D5E6482}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {AE0920E4-E59F-41DC-AC35-FB7B760710A1}
+        E 0 99 23 75
+        E 0 99 31 79
+        E 124 89 31 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 99 23 75
+        E 0 99 2e 79
+        E 124 89 2e 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 99 23 75
+        E 0 99 31 79
+        E 124 89 31 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 99 23 75
+        E 0 99 2e 79
+        E 124 89 2e 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 99 23 75
+        E 0 99 31 79
+        E 124 89 31 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 99 23 75
+        E 0 99 2e 79
+        E 124 89 2e 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 99 23 75
+        E 0 99 31 79
+        E 124 89 31 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 24 7f
+        E 120 80 24 00
+        E 360 99 23 75
+        E 0 99 2e 79
+        E 124 89 2e 40
+        E 5 89 23 40
+        E 831 90 26 60
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7a
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 2a 7f
+        E 55 80 2a 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CAFC0559-AA01-45E3-AADD-B2DD8977E084}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 6
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 160
+      SNAPOFFS 0
+      LENGTH 13.97135208891595
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C325E1D-55F8-4EDE-B571-1C74A5929631}
+      IID 128
+      NAME gman-hiddenv7.mid
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73EA154B-C367-4D01-9B4B-84CF9FF26FDB}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {10CD1487-9AE2-48C5-A82D-B01FFF028A95}
+        E 0 90 2a 7f
+        E 65 80 2a 00
+        E 600 90 23 7f
+        E 0 90 2a 42
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 360 90 33 7f
+        E 0 90 2a 7f
+        E 60 80 33 00
+        E 60 80 2a 00
+        E 360 90 27 7f
+        E 120 80 27 00
+        E 120 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 120 80 23 00
+        E 480 90 23 6b
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 80 90 23 7f
+        E 60 80 23 00
+        E 420 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 320 90 26 60
+        E 160 80 26 00
+        E 80 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 60 80 2e 00
+        E 180 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 33 7f
+        E 60 80 33 00
+        E 180 90 33 7f
+        E 60 80 33 00
+        E 180 90 2a 7f
+        E 120 80 2a 00
+        E 600 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 360 90 33 7f
+        E 0 90 2a 7f
+        E 60 80 33 00
+        E 60 80 2a 00
+        E 360 90 27 7f
+        E 120 80 27 00
+        E 120 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 600 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 360 90 33 7f
+        E 0 90 2a 7f
+        E 60 80 33 00
+        E 60 80 2a 00
+        E 360 90 27 7f
+        E 120 80 27 00
+        E 120 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 120 80 23 00
+        E 480 90 23 6b
+        E 0 90 39 7f
+        E 120 80 39 00
+        E 40 80 23 00
+        E 560 90 2a 7f
+        E 0 90 26 7f
+        E 120 80 2a 00
+        E 0 80 26 00
+        E 360 90 29 7f
+        E 120 80 29 00
+        E 360 90 2b 7f
+        E 120 80 2b 00
+        E 360 90 2d 7f
+        E 120 80 2d 00
+        E 360 90 30 7f
+        E 120 80 30 00
+        E 600 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 360 90 33 7f
+        E 0 90 2a 3f
+        E 60 80 33 00
+        E 60 80 2a 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 120 90 2a 41
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 46
+        E 120 80 2e 00
+        E 120 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 120 80 23 00
+        E 480 90 23 6b
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 80 90 23 7f
+        E 60 80 23 00
+        E 420 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 320 90 26 60
+        E 160 80 26 00
+        E 80 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 4b
+        E 60 80 2e 00
+        E 180 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 33 49
+        E 60 80 33 00
+        E 180 90 33 7f
+        E 60 80 33 00
+        E 180 90 2a 42
+        E 120 80 2a 00
+        E 600 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 360 90 33 7f
+        E 0 90 2a 7f
+        E 60 80 33 00
+        E 60 80 2a 00
+        E 360 90 27 7f
+        E 120 80 27 00
+        E 120 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 120 80 23 00
+        E 480 90 23 6b
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 80 90 23 7f
+        E 60 80 23 00
+        E 420 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 320 90 26 60
+        E 160 80 26 00
+        E 80 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 60 80 2e 00
+        E 180 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 33 7f
+        E 60 80 33 00
+        E 180 90 33 7f
+        E 60 80 33 00
+        E 180 90 2a 7f
+        E 120 80 2a 00
+        E 600 90 23 7f
+        E 0 90 2a 42
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 360 90 33 7f
+        E 0 90 2a 7f
+        E 60 80 33 00
+        E 60 80 2a 00
+        E 360 90 27 7f
+        E 120 80 27 00
+        E 120 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 120 80 23 00
+        E 480 90 23 6b
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 80 90 23 7f
+        E 60 80 23 00
+        E 420 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 2a 00
+        E 40 80 23 00
+        E 320 90 26 60
+        E 160 80 26 00
+        E 80 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 60 80 2e 00
+        E 180 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 33 7f
+        E 60 80 33 00
+        E 180 90 33 7f
+        E 60 80 33 00
+        E 180 90 2a 7f
+        E 120 80 2a 00
+        E 600 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 360 90 33 7f
+        E 0 90 2a 7f
+        E 60 80 33 00
+        E 60 80 2a 00
+        E 360 90 27 7f
+        E 120 80 27 00
+        E 120 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {02F4EDE2-0D0C-4ACB-9A16-BB902FD6491E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 7
+      >
+    >
+    <ITEM
+      POSITION 174
+      SNAPOFFS 0
+      LENGTH 13.96495833333333
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A401DCBC-7838-4BDB-952A-9D982973F4F2}
+      IID 128
+      NAME gman-hiddenv7.mid
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0660EF41-40C0-41FF-A1B2-D3692C3AC069}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {3E6F4356-5EEF-4F22-A206-40C9BA154B4A}
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 89 23 00
+        E 0 99 23 7f
+        E 0 90 31 7f
+        E 120 80 31 00
+        E 9 89 23 40
+        E 351 90 23 7f
+        E 120 80 23 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2a 4d
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2a 49
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2a 5f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 23 7f
+        E 0 90 27 7f
+        E 120 80 23 00
+        E 0 80 27 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 99 23 7f
+        E 0 90 31 7f
+        E 120 80 31 00
+        E 9 89 23 40
+        E 351 90 23 7f
+        E 120 80 23 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2a 4d
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2a 49
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2a 5f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 23 7f
+        E 0 90 27 7f
+        E 120 80 23 00
+        E 0 80 27 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 99 23 7f
+        E 0 90 31 7f
+        E 120 80 31 00
+        E 9 89 23 40
+        E 351 90 23 7f
+        E 120 80 23 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2a 4d
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2a 49
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2a 5f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 23 7f
+        E 0 90 27 7f
+        E 120 80 23 00
+        E 0 80 27 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 1320 99 23 7f
+        E 0 90 31 7f
+        E 120 80 31 00
+        E 9 89 23 40
+        E 351 90 23 7f
+        E 120 80 23 00
+        E 360 90 2a 7f
+        E 120 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2a 4d
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2a 49
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 2a 60
+        E 120 80 2a 00
+        E 360 90 23 7f
+        E 0 90 2e 60
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 120 80 23 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 23 7f
+        E 0 90 27 7f
+        E 120 80 23 00
+        E 0 80 27 00
+        E 360 90 23 7f
+        E 0 90 2a 7f
+        E 120 80 23 00
+        E 0 80 2a 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 293 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {6E717767-1364-4A06-9B78-A3A946E6E2EC}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 9
+      >
+    >
+    <ITEM
+      POSITION 187.96495833333333
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77FFBFF0-48CD-45B1-8CAB-67443DCCE7EE}
+      IID 128
+      NAME gman-hiddenv7.mid
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B286A2B-4BC4-4470-B4D7-FB3E94033E70}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {C6FAF386-12DB-4D36-9E55-1A0835351D04}
+        E 67 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 2e 40
+        E 0 90 26 7f
+        E 120 80 2e 00
+        E 0 80 26 00
+        E 360 90 2e 3c
+        E 120 80 2e 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 2e 40
+        E 0 90 26 7f
+        E 120 80 2e 00
+        E 0 80 26 00
+        E 360 90 2e 3c
+        E 120 80 2e 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 2e 40
+        E 0 90 26 7f
+        E 120 80 2e 00
+        E 0 80 26 00
+        E 360 90 2e 3c
+        E 120 80 2e 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2c 79
+        E 120 80 2c 00
+        E 360 90 2c 79
+        E 120 80 2c 00
+        E 293 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CE7EE1A8-B2A0-4EA1-859F-A488424DD3F0}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 10
+      >
+    >
+    <ITEM
+      POSITION 212.50031532647978
+      SNAPOFFS 0
+      LENGTH 15.99968467352016
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5D5BB08-3AB5-42EE-9291-A455E3C6546F}
+      IID 128
+      NAME gman-hiddenv7.mid
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03FA4F28-100B-4BD7-B679-71FD4D688BF6}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {565BEECF-27FA-4654-969B-43B699EE1581}
+        E 0 90 31 7f
+        E 0 99 23 7f
+        E 119 80 31 00
+        E 9 89 23 40
+        E 351 90 2e 21
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 60
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 2e 2e
+        E 120 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 60
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 42
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 23 60
+        E 0 90 2e 7f
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 3240 99 23 7f
+        E 0 90 31 7f
+        E 120 80 31 00
+        E 9 89 23 40
+        E 351 90 2e 21
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 23 7f
+        E 0 90 2e 60
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 2e 2e
+        E 120 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 60
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 42
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 23 60
+        E 0 90 2e 7f
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 3240 99 23 7f
+        E 0 90 31 7f
+        E 120 80 31 00
+        E 9 89 23 40
+        E 351 90 2e 21
+        E 0 90 26 7f
+        E 120 80 2e 00
+        E 0 80 26 00
+        E 360 90 23 7f
+        E 0 90 2e 60
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 2e 2e
+        E 120 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 60
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 42
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 23 60
+        E 0 90 2e 7f
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 3240 90 31 7f
+        E 0 90 26 7f
+        E 120 80 31 00
+        E 0 80 26 00
+        E 360 90 2e 21
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 23 7f
+        E 0 90 2e 60
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 2e 2e
+        E 120 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 60
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 42
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 23 60
+        E 0 90 2e 7f
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 120 80 26 00
+        E 3240 99 23 7f
+        E 0 90 31 7f
+        E 120 80 31 00
+        E 9 89 23 40
+        E 111 90 23 7f
+        E 120 80 23 00
+        E 120 90 2e 21
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 120 90 23 7f
+        E 120 80 23 00
+        E 120 90 23 7f
+        E 0 90 2e 60
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 2e 2e
+        E 120 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 60
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 42
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 23 7f
+        E 0 90 2e 7f
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 60
+        E 0 90 36 60
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 0 80 36 00
+        E 360 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {00635CF3-E115-456B-99AE-B2DED850CEFD}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 8
+      >
+    >
+  >
+  <TRACK {677C40C6-97F7-4BCE-A7B0-2820FDF1C95B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.42637075113095 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {677C40C6-97F7-4BCE-A7B0-2820FDF1C95B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 186 74 1127 773
+      SHOW 1
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: EZdrummer (Toontrack) (32 out)" EZdrummer.dll 0 "" 1684432997<56535464666865657A6472756D6D6572> ""
+        ZWhmZO5e7f4AAAAAIAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAACAAAAAAAA
+        AAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAA
+        AABAAAAAAAAAAIAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAADLDgAAAQAAAAkAEAA=
+        dmVyc2lvbiAxCkVaWCAiRVpYMl9FWmRydW1tZXIyX01vZGVybiIKaHVtYW5pemUgMQpwb3MgIktpY2siICIxODIyR01TIgpwb3MgIlNuYXJlIiAiMTNHTVMiCnBvcyAi
+        SGF0cyIgIjE0SEhYIgpwb3MgIlRvbTEiICIxMEdNUzEiCnBvcyAiVG9tMiIgIjEyR01TMSIKcG9zICJUb20zIiAiMTRHTVMxIgpwb3MgIlRvbTQiICIxNkdNUzEiCnBv
+        cyAiVG9tNSIgIjE4R01TMSIKcG9zICJSaWRlNCIgIjIxUmlkZVZpbnRhZ2UiCnBvcyAiQ3Jhc2gxIiAiMTlTYWJpYW4xIgpwb3MgIkNyYXNoMiIgIjE4U2FiaWFuMiIK
+        cG9zICJDcmFzaDMiICIxOFNhYmlhbjMiCnBvcyAiQ3Jhc2g0IiAiMThTYWJpYW41IgptaXhlciB7CmJ1c3MgMCB7CnBhbiAwLjUKdm9sdW1lIDAuNzA3OTQ3CnBoYXNl
+        cmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMSB7CnBhbiAwLjUKdm9sdW1lIDAuNzA3OTQ3CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAK
+        cm91dGUgMAp9CmJ1c3MgMiB7CnBhbiAwLjUKdm9sdW1lIDAuNzA3OTQ3CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMyB7CnBhbiAw
+        LjUKdm9sdW1lIDAuNzA3OTQ3CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgNCB7CnBhbiAwLjM3NQp2b2x1bWUgMC4zNTQ4MTQKcGhh
+        c2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyA1IHsKcGFuIDAuMzc1CnZvbHVtZSAwLjM1NDgxNApwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0
+        ZSAwCnJvdXRlIDAKfQpidXNzIDYgewpwYW4gMAp2b2x1bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDcgewpwYW4gMQp2b2x1
+        bWUgMQpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDggewpwYW4gMAp2b2x1bWUgMC42MzA5NTgKcGhhc2VyZXZlcnNlIDAKc29sbyAw
+        Cm11dGUgMApyb3V0ZSAwCn0KYnVzcyA5IHsKcGFuIDEKdm9sdW1lIDAuNjMwOTU4CnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMTAg
+        ewpwYW4gMAp2b2x1bWUgMC4zNDU1MTEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxMSB7CnBhbiAxCnZvbHVtZSAwLjM0NTUxMQpw
+        aGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDEyIHsKcGFuIDAKdm9sdW1lIDAuNDc1MjUxCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRl
+        IDAKcm91dGUgMAp9CmJ1c3MgMTMgewpwYW4gMQp2b2x1bWUgMC40NzUyNTEKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxNCB7CnBh
+        biAwCnZvbHVtZSAwLjE4MjYxNgpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDE1IHsKcGFuIDEKdm9sdW1lIDAuMTgyNjE2CnBoYXNl
+        cmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9CmJ1c3MgMTYgewpwYW4gMC41CnZvbHVtZSAwLjcwNzk0NwpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAw
+        CnJvdXRlIDAKfQpidXNzIDE3IHsKcGFuIDAuNQp2b2x1bWUgMC43MDc5NDcKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxOCB7CnBh
+        biAwLjEzODg4OQp2b2x1bWUgMC42MzA5NTgKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAxOSB7CnBhbiAwLjEzODg4OQp2b2x1bWUg
+        MC42MzA5NTgKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAyMCB7CnBhbiAwLjgzMzMzMwp2b2x1bWUgMC42MzA5NTgKcGhhc2VyZXZl
+        cnNlIDAKc29sbyAwCm11dGUgMApyb3V0ZSAwCn0KYnVzcyAyMSB7CnBhbiAwLjgzMzMzMwp2b2x1bWUgMC42MzA5NTgKcGhhc2VyZXZlcnNlIDAKc29sbyAwCm11dGUg
+        MApyb3V0ZSAwCn0KYnVzcyAyMiB7CnBhbiAwCnZvbHVtZSAwLjI3OTM1MwpwaGFzZXJldmVyc2UgMApzb2xvIDAKbXV0ZSAwCnJvdXRlIDAKfQpidXNzIDIzIHsKcGFu
+        IDEKdm9sdW1lIDAuMjc5MzUzCnBoYXNlcmV2ZXJzZSAwCnNvbG8gMAptdXRlIDAKcm91dGUgMAp9Cn0KRVoxc3R1ZmZFTkQgewp9CnNhbXBsZXIgewptYXN0ZXJ2b2wg
+        MQpyZXZlcnNlIDAKcHJlc2V0ICJCYXNpYyIKa25vYiAwIDAuNDg1MTQ5Cmtub2IgMSAwLjUwNDk1MQprbm9iIDIgMC41Cmtub2IgMyAwLjUKa25vYiA0IDEKa25vYiA1
+        IDEKZHJ1bXByb3BzIHsKIlhQZXJjLTAiIHggIkVaWFBfRVpkcnVtbWVyMl9QZXJjdXNzaW9uIiAiT25lc2hvdCIgIkNsYXBzMiIKIlhQZXJjLTEiIHggIkVaWFBfRVpk
+        cnVtbWVyMl9QZXJjdXNzaW9uIiAiU2hha2VyIiAiU2hha2VyMSIKIlhQZXJjLTIiIHggIkVaWFBfRVpkcnVtbWVyMl9QZXJjdXNzaW9uIiAiVGFtYm91cmluZSIgIlRh
+        bWIxIgp9Cn0KZWRydW0gbm9uZSBub25lCm1pZGlsZWFybiB7Cn0KRWRpdG9yIHsgClNvbmdUcmFjayB7ClZpc2libGVBcmVhIDk3LjgxMzMgMTYyLjk1MwpUcmFja05h
+        bWUgIiIKQ2xlYXJUcmFja0ZpcnN0ClRpbWVTaWcgNCA0CkdyaWRSZXMgMzIKTG9vcEFyZWEgMCAwCkxvb3BBY3RpdmUgMAp9ClZpc2libGVSZXN1bHRDb2x1bW5zIDE2
+        LDI4LDAsMDsxNywyOCwwLDA7MCwxODUsMCwwOzExLDIwMCwwLDA7NCwxNTAsMCwwOzYsMTMwLDAsMDs3LDQ1LDAsMDs4LDQ1LDAsMDszLDQ1LDAsMDsKVmlzaWJsZUZp
+        bHRlckNvbHVtbnMgNDs3OzU7MTs1OzI7NjsyOwpCcm93c2VySGVpZ2h0IDE2NgpTZWxlY3RlZFRhZ3MgLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCww
+        LDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwxLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCwwLDAsMCww
+        LDAsMCwwLDAsMCwwLDAsMApTZWxlY3RlZEZpbGUgMjM5OTMKU2VsZWN0ZWRCcm93c2VyUGF0aCAiMDJfQEVaRFJVTU1FUl8yX01PREVSTiNWSU5UQUdFLzMwNUBTVFJB
+        SUdIVF80IzQvMTM1LVMwNTVAQlJJREdFL1ZhcmlhdGlvbl8wNC5taWQiCkJyb3dzZXJJbnRlbnNpdHkgMDszMzswOzUzOwpUYXAyRmluZExvb3AgIHsKTmFtZSAiVGFw
+        MkZpbmQgTUlESSIKUmVhbFN0YXJ0VGltZSAwClJlYWxFbmRUaW1lIDgKU3RhcnRUaW1lIDAKRW5kVGltZSA4Ck9mZnNldCAwClJlc2l6ZUVuZCA4ClZlbG9jaXR5IDAK
+        Q2xlYXJOb3RlcwpUaW1lU2lnIDQgNApFdmVudHMgODI2Njg5NiAwLjQ5NzMzMyA5MzQ0IDAuNTQ3MzMzIDgyNjQwODAgMC42NTkzMzMgNjUyOCAwLjcwOTMzMyA4MjY0
+        MDgwIDEuNjMyIDY1MjggMS42ODIgODI2NDA4MCAyLjIwOCA2NTI4IDIuMjU4IDgyNjc0MDggMi41MTczMyA5ODU2IDIuNTY3MzMgODI2NDA4MCAzLjE3NjY3IDY1Mjgg
+        My4yMjY2NyA4MjY0MDgwIDMuOTAyIDY1MjggMy45NTIgODI2Njg5NiA0LjQyNjY3IDkzNDQgNC40NzY2NyA4MjY0MDgwIDQuODk0IDY1MjggNC45NDQgODI2NDA4MCA2
+        LjI2MTMzIDY1MjggNi4zMTEzMyA4MjY3NDA4IDYuMzk4IDk4NTYgNi40NDggODI2NDA4MCA3LjA5MzMzIDY1MjggNy4xNDMzMyA4MjY0MDgwIDcuODUwNjcgMTI4IDcu
+        ODc1IDY1MjggNy45MDA2NyAKVHlwZSAxCk11dGUgMApBY2NlbnRzT24gMApCcm93c2VyUGF0aFBhcnRzCkZhdm9yaXRlUGF0aFBhcnRzCkZpbGVOYW1lICIiClNlbGVj
+        dGVkIDAKfQpCcm93c2VySXNGYXZvcml0ZSAwClByZXZpZXdJbk9yaWdpbmFsVGVtcG8gMApDbGVhclNvbmdDcmVhdG9yIDAKVmlzaWJsZVRhYiAyCn0KU3luY1RvSG9z
+        dCAxIDEyMApNaWRpT3V0RW5hYmxlZCAwCk1pZGlJbkNoYW5uZWwgLTEKAA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {488B3FEF-EEB8-4866-9387-45855C160269}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 218
+      SNAPOFFS 0
+      LENGTH 20
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB675CE9-953E-43F7-A429-74FC77BFE1BF}
+      IID 128
+      NAME gman-hiddenv7.mid
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCC280A0-261B-482B-AD37-15E6BDC1DB8E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {1F8A53C9-94F7-47A1-BA3B-F36F48ACCD6A}
+        E 67 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 2e 40
+        E 0 90 26 7f
+        E 120 80 2e 00
+        E 0 80 26 00
+        E 360 90 2e 3c
+        E 120 80 2e 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 2e 40
+        E 0 90 26 7f
+        E 120 80 2e 00
+        E 0 80 26 00
+        E 360 90 2e 3c
+        E 120 80 2e 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 0 90 23 7f
+        E 120 80 2e 00
+        E 0 80 23 00
+        E 360 90 2e 40
+        E 0 90 26 7f
+        E 120 80 2e 00
+        E 0 80 26 00
+        E 360 90 2e 3c
+        E 120 80 2e 00
+        E 120 90 2e 7f
+        E 120 80 2e 00
+        E 120 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 360 99 23 75
+        E 0 99 31 79
+        E 0 90 34 79
+        E 120 80 34 00
+        E 4 89 31 40
+        E 5 89 23 40
+        E 351 90 2e 3e
+        E 120 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 79
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 23 7f
+        E 0 90 2e 1b
+        E 120 80 23 00
+        E 0 80 2e 00
+        E 360 90 26 7f
+        E 0 90 2e 7f
+        E 120 80 26 00
+        E 0 80 2e 00
+        E 360 90 2e 3b
+        E 120 80 2e 00
+        E 360 90 2e 79
+        E 120 80 2e 00
+        E 360 90 2b 7f
+        E 120 80 2b 00
+        E 240 90 34 7f
+        E 0 90 31 7f
+        E 0 90 23 7f
+        E 120 80 34 00
+        E 0 80 31 00
+        E 0 80 23 00
+        E 7613 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {6D0809AD-5A4B-4F89-81CC-104195136497}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 11
+      >
+    >
+  >
+  <TRACK {A6FE91D6-7844-40F0-9B50-35C2B81AA682}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6FE91D6-7844-40F0-9B50-35C2B81AA682}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2F73610-9FEC-46F2-8B43-EAC1CAD70D20}
+      IID 181
+      NAME "Variation 01 - Variation_01.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96D68B4D-3733-4588-9F2C-8C07C15A729E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {70C6D0B6-FFCF-4DDA-B19F-8260800D8FE5}
+        <X 0 0 0 0 3 "Variation 01"
+          /wNWYXJpYXRpb24gMDE=
+        >
+        E 0 90 24 7f
+        E 44 90 31 7f
+        E 76 90 24 00
+        E 44 90 31 00
+        E 149 90 26 2f
+        E 119 90 26 00
+        E 207 90 24 7c
+        E 120 90 24 00
+        E 220 90 26 7b
+        E 120 90 26 00
+        E 179 90 24 7f
+        E 31 90 1a 7f
+        E 88 90 24 00
+        E 32 90 1a 00
+        E 182 90 15 73
+        E 120 90 15 00
+        E 186 90 24 7f
+        E 19 90 16 7f
+        E 101 90 24 00
+        E 19 90 16 00
+        E 225 90 26 3a
+        E 120 90 26 00
+        E 146 90 24 7f
+        E 72 90 3d 7f
+        E 48 90 24 00
+        E 72 90 3d 00
+        E 165 90 26 7f
+        E 26 90 1a 7f
+        E 94 90 26 00
+        E 25 90 1a 00
+        E 232 90 26 40
+        E 119 90 26 00
+        E 417 90 24 7f
+        E 40 90 16 7f
+        E 79 90 24 00
+        E 41 90 16 00
+        E 220 90 26 37
+        E 120 90 26 00
+        E 171 90 24 7f
+        E 10 90 16 7f
+        E 109 90 24 00
+        E 10 90 16 00
+        E 207 90 26 7f
+        E 120 90 26 00
+        E 174 90 24 40
+        E 42 90 3d 7a
+        E 78 90 24 00
+        E 41 90 3d 00
+        E 181 90 16 3c
+        E 120 90 16 00
+        E 193 90 24 7f
+        E 9 90 16 7f
+        E 111 90 24 00
+        E 9 90 16 00
+        E 214 90 26 3e
+        E 120 90 26 00
+        E 133 90 24 7f
+        E 26 90 1a 7f
+        E 94 90 24 00
+        E 25 90 1a 00
+        E 235 90 26 7c
+        E 120 90 26 00
+        E 192 90 26 64
+        E 120 90 26 00
+        E 170 90 26 7f
+        E 120 90 26 00
+        E 209 90 24 7f
+        E 17 90 16 7f
+        E 103 90 24 00
+        E 17 90 16 00
+        E 173 90 16 45
+        E 120 90 16 00
+        E 204 90 24 7f
+        E 20 90 16 7f
+        E 100 90 24 00
+        E 21 90 16 00
+        E 185 90 26 7f
+        E 120 90 26 00
+        E 115 90 26 1c
+        E 34 90 3d 72
+        E 87 90 26 00
+        E 33 90 3d 00
+        E 232 90 16 37
+        E 120 90 16 00
+        E 216 90 24 7f
+        E 27 90 16 7f
+        E 93 90 24 00
+        E 27 90 16 00
+        E 169 90 26 38
+        E 120 90 26 00
+        E 40 90 26 25
+        E 120 90 26 00
+        E 6 90 24 7f
+        E 34 90 3d 7f
+        E 86 90 24 00
+        E 34 90 3d 00
+        E 225 90 26 7f
+        E 7 90 1a 7f
+        E 113 90 26 00
+        E 7 90 1a 00
+        E 190 90 26 21
+        E 121 90 26 00
+        E 156 90 26 1d
+        E 120 90 26 00
+        E 55 90 26 20
+        E 120 90 26 00
+        E 49 90 24 7f
+        E 8 90 16 7f
+        E 112 90 24 00
+        E 9 90 16 00
+        E 238 90 26 42
+        E 120 90 26 00
+        E 166 90 24 7c
+        E 4 90 3d 7f
+        E 116 90 24 00
+        E 5 90 3d 00
+        E 202 90 26 7e
+        E 121 90 26 00
+        E 193 90 1a 7a
+        E 121 90 1a 00
+        E 196 90 15 73
+        E 121 90 15 00
+        E 218 90 24 7f
+        E 26 90 16 7f
+        E 95 90 24 00
+        E 25 90 16 00
+        E 218 90 26 36
+        E 121 90 26 00
+        E 6 90 26 32
+        E 120 90 26 00
+        E 4 90 24 7f
+        E 40 90 3c 7f
+        E 81 90 24 00
+        E 39 90 3c 00
+        E 199 90 26 62
+        E 120 90 26 00
+        E 206 90 26 77
+        E 121 90 26 00
+        E 151 90 31 7a
+        E 120 90 31 00
+        E 202 90 24 7f
+        E 19 90 15 57
+        E 21 90 39 7f
+        E 80 90 24 00
+        E 19 90 15 00
+        E 21 90 39 00
+        E 166 90 26 36
+        E 119 90 26 00
+        E 53 90 26 39
+        E 120 90 26 00
+        E 29 90 24 7f
+        E 38 90 16 7f
+        E 81 90 24 00
+        E 39 90 16 00
+        E 183 90 26 7f
+        E 120 90 26 00
+        E 161 90 26 41
+        E 1 90 3d 7f
+        E 119 90 26 00
+        E 1 90 3d 00
+        E 236 90 3d 55
+        E 120 90 3d 00
+        E 186 90 24 7f
+        E 39 90 16 7f
+        E 81 90 24 00
+        E 39 90 16 00
+        E 139 90 26 3e
+        E 120 90 26 00
+        E 63 90 26 2f
+        E 120 90 26 00
+        E 28 90 24 7f
+        E 15 90 3d 7f
+        E 105 90 24 00
+        E 15 90 3d 00
+        E 196 90 26 7f
+        E 34 90 1a 7f
+        E 86 90 26 00
+        E 34 90 1a 00
+        E 184 90 24 77
+        E 120 90 24 00
+        E 182 90 26 38
+        E 120 90 26 00
+        E 192 90 24 7f
+        E 16 90 16 7f
+        E 104 90 24 00
+        E 16 90 16 00
+        E 187 90 26 49
+        E 120 90 26 00
+        E 201 90 24 7f
+        E 32 90 3d 7f
+        E 88 90 24 00
+        E 32 90 3d 00
+        E 166 90 26 7f
+        E 14 90 1a 11
+        E 106 90 26 00
+        E 14 90 1a 00
+        E 186 90 1a 78
+        E 119 90 1a 00
+        E 193 90 26 05
+        E 120 90 26 00
+        E 201 90 24 7f
+        E 25 90 16 7f
+        E 94 90 24 00
+        E 26 90 16 00
+        E 218 90 26 33
+        E 119 90 26 00
+        E 31 90 26 2b
+        E 119 90 26 00
+        E 24 90 24 7f
+        E 17 90 3d 7f
+        E 103 90 24 00
+        E 17 90 3d 00
+        E 182 90 26 77
+        E 120 90 26 00
+        E 169 90 26 71
+        E 120 90 26 00
+        E 210 90 26 7f
+        E 120 90 26 00
+        E 207 90 24 7f
+        E 25 90 16 7f
+        E 95 90 24 00
+        E 25 90 16 00
+        E 200 90 3d 36
+        E 120 90 3d 00
+        E 176 90 24 7f
+        E 29 90 16 7f
+        E 91 90 24 00
+        E 29 90 16 00
+        E 187 90 26 7f
+        E 121 90 26 00
+        E 209 90 26 2e
+        E 4 90 3d 7e
+        E 116 90 26 00
+        E 4 90 3d 00
+        E 161 90 16 59
+        E 120 90 16 00
+        E 215 90 16 7f
+        E 10 90 24 7f
+        E 110 90 16 00
+        E 10 90 24 00
+        E 144 90 26 33
+        E 121 90 26 00
+        E 36 90 26 2c
+        E 120 90 26 00
+        E 65 90 24 7f
+        E 10 90 3d 7f
+        E 111 90 24 00
+        E 9 90 3d 00
+        E 205 90 26 7f
+        E 24 90 3c 7f
+        E 97 90 26 00
+        E 23 90 3c 00
+        E 231 90 26 2a
+        E 120 90 26 00
+        E 155 90 26 25
+        E 120 90 26 00
+        E 189 90 24 7f
+        E 17 90 39 7f
+        E 103 90 24 00
+        E 17 90 39 00
+        E 240 90 26 7b
+        E 120 90 26 00
+        E 17 90 26 66
+        E 120 90 26 00
+        E 13 90 26 7f
+        E 120 90 26 00
+        E 182 90 26 7f
+        E 16 90 15 7f
+        E 104 90 26 00
+        E 16 90 15 00
+        E 199 90 2f 7a
+        E 120 90 2f 00
+        E 70 90 2f 7f
+        E 120 90 2f 00
+        E 52 90 2f 7c
+        E 121 90 2f 00
+        E 143 90 24 7f
+        E 6 90 15 7f
+        E 18 90 2f 7f
+        E 96 90 24 00
+        E 6 90 15 00
+        E 19 90 2f 00
+        E 177 90 2d 79
+        E 120 90 2d 00
+        E 57 90 2d 6b
+        E 120 90 2d 00
+        E 24 90 2d 7f
+        E 120 90 2d 00
+        E 197 90 2d 7f
+        E 4 90 24 7f
+        E 26 90 15 79
+        E 90 90 2d 00
+        E 4 90 24 00
+        E 26 90 15 00
+        E 200 90 2b 79
+        E 121 90 2b 00
+        E 188 90 2b 7f
+        E 120 90 2b 00
+        E 194 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {796E94DE-B6F0-4D1A-AE8D-7054F88DFBB2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 25
+      >
+    >
+  >
+>

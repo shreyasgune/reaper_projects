@@ -1,0 +1,206 @@
+Changelog, CONCEPT SIX Series:
+
+
+2020-04-04, dev_0.1  pre-release Hi-DPI/Retina (@2x)
+2020-04-14, dev_0.2  pre-release 1080p, 1920p (@1x)
+2020-04-18, dev_0.3  combined resources
+
+2020-04-24, rev_1.0  release for PC and Mac
+2020-05-10, rev_1.1  see below
+2020-05-29, rev_1.2  see below
+2020-07-20, rev_1.4  see below
+2020-11-20, rev_1.5  see below
+2020-12-19, rev_1.6  see below
+2021-01-26, rev_1.7  See below
+2021-03-01, rev_1.8  See below
+2021-05-18, rev_1.9  See below
+
+------------------------------
+
+2021-11-07, rev_2.0.0  Upgrade, see below
+
+2021-12-20, rev_2.1.0  See below
+2022-02-19, rev_2.2.1  See below
+2022-03-12, rev_2.3.0  See below
+2022-03-19, rev_2.3.1  See below
+2022-04-02, rev_2.3.2  See below
+2022-04-22, rev_2.4.0  See below
+2022-05-01, rev_2.4.1  See below
+2022-05-22, rev_2.5.0  See below
+2022-05-28, rev_2.5.1  See below
+2022-06-28, rev_2.6.0  See below
+2022-07-06, rev_2.6.1  See below
+2022-08-20, rev_2.7.0  See below
+
+------------------------------
+
+
+Revision 1.1,
++ Added channel strips x4
++ Added white thumb for Track Controls
++ Overall color corrections, overlays and contrast
+– Tinted Mixer thumbs moved to Layout A
+– Scripts updated
+– Fixed Layout C, tcp meter widths.
+
+Revision 1.2,
++ Two new skin variants for CONCEPT SIX BASIC, plus an experimental skin for fun!
++ Customized CONCEPT SIX theme adjuster for all variants
+– Script and functions updated to fit Reaper 6.11
+– Arrangement: Adjusted color for un-selected automation items
+– Graphics: Small adjustments for mcp narrow mode and tcp folders
+- Mixer Panel, automation icons: Swap colors for latch and preview
+
+Revision 1.4,
++ Additional layouts prepared for hi-dpi
+– Larger font size for labels
+– Updates to theme configuration and custom theme Adjuster
+- Corrections for Media Explorer, Midi Editor, Matrix view, TCP/MCP Fx slots, Item Buttons.
+
+Revision 1.5,
+• Maintenance and update, all theme variants
+– Various elements optimized for latest Reaper features
+– Minor updates and corrections in configuration scripts
+- Changed color for solo buttons (MC series)
+- Changed supercollapsed tcp height (MC series)
++ New skin variant: CONCEPT SIX - DM ONYX, prepped for dark mode system appearances. 1080p, HD, Hi-DPI and Retina displays.
+
+Revision 1.6,
+• Maintenance and update, all theme variants
++ New skin variant for dark mode: CONCEPT SIX - DM XENON.
+
+Revision 1.7,
+• Maintenance and update, all theme variants
+– Adjusted Transport bar, BPM and time-signature
++ Extra variants for DM Series displaying bright media item peaks (inverted color)
+
+Revision 1.8,
+• Maintenance and update, all theme variants
+- color adjustments
+- toolbar buttons, padding
+- arrangement, custom color for Razor Edit
+- arrangement, tints for selected track lanes
+
+Revision 1.9,
+• Maintenance and update, all theme variants
+- Adjusted Markers lane text
+- Adjusted tcp id-x, display 4 digit track numbers
+- Adjusted highlight in Routing Matrix view
+- Corrected scrollbars for Media Explorer and Midi Editor
+- Updated: Theme Adjuster with more coloring options and action buttons
+
+Revision 2.0,
+• Upgrade for all theme variants
++ New theme variant: "BC Extended"
++ Various gfx and scaling for standard and hi-dpi
++ Adjusted mixer layouts A and B. Layout C = slim channel strip (except for Basic edition)
++ Separate sends list in tcp
++ VU loudness readout and meters
++ New in CSIX theme adjuster: Show tcp sends list, channel strip settings, mcp fxembed size.
+
+Revision 2.1,
++ Master Mixer, added two alternate layouts: Wide + Wide Sidebar, auto expand for fx embed
+- Adjusted media item appearance
+- Some color corrections.
+
+Revision 2.2.0 - 2.2.1,
+• Maintenance and update, all theme variants
+– Updated toolbar icons
+– Adjusted transport bar
+– Adjusted envelope CP
+- Generic knob, fixed wrong size @1x
+– MCP, slim channel strips, 4-digit track numbers
+– MCP, fix folder icon/last when fxembed size is used
+- TCP, cleanup folder start/end
++ CSIX Theme Adjuster: Added options to display parm/sends below inserts (MCP), Adjusted auto name-size (TCP), transport: toggle external timecode synchronization.
+
+Revision 2.3.0 - 2.3.2,
+• Maintenance and update, all theme variants
+– TCP, slightly larger pan/width buttons, optionally hide VU meter (zero width from Theme Adjuster)
+– TCP, reworked mute/solo/phase/icon/lanes -section
+– TCP separator: added title field for the existing Divider layout
+– Some color corrections for control panels/tracks/items appearance when locked/muted/soloed
+– Arrangement, minor adjustments for grid and lines
+– Media Items: added a two-color knobstack for the Volume Knob (BC Series only)
+– Larger font in some places (@1x)
+- Updated icons for Media Explorer toolbar (theme colors)
++ CSIX Theme Adjuster: MCP: Master mixer fxembed size for Wide + Wide Sidebar layout. TCP: Added button to show/hide fx inserts.
+
+Revision 2.4.0 - 2.5.1
+• Maintenance and update, all theme variants
+– Transport, adjusted appearance for play rate slider
+– minor corrections for muted items/takes appearance
+– Updated use of scalar for v5 channel strip layout
++ Added alternate track panel layout "ALT Pan & Meter" (TCP A-formatted) *all themes except Pimped-Up!
++ Added alternate mixer panel layout "ALT Pan & Width" (MCP A-formatted) *all themes except Pimped-Up!
++ New in CONCEPT SIX SERIES: DM XENONY - A mix of DM Xenon and DM Onyx.
+
+Revision 2.6.0
+• Maintenance and update, all theme variants
+– TCP/MCP: Alternate layouts now defined as default B-layout and working with CSIX Theme Adjuster
+– B-layout: Show/hide value label on top of sliders/buttons
+– Colored volume thumbs now use same naming convention between variants of CONCEPT SIX.
+
+Revision 2.6.1
+– All CSIX theme variants: Correction for pan knobs center position.
+
+Revision 2.7.0
+• Maintenance and update, all theme variants
+– TCP: Changed C-layout, show fx inserts/parameters on the right, separate sendlist on the left
+- TCP: Changed pan/width knobs placement for certain theme variants
+– TCP: Floating value labels now left aligned
+– TCP: Dividers, titles respect folder indentation
+– TCP: Alternate A,B,C layout, always show red volume fader thumb
+– Arrangement / Media Items, some adjustments for group indication
+- Various additions and predefined settings for more consistency across the CSIX Series.
+
+
+-------------------
+
+
+
+For new installations, documentation and screenshots, please read the CONCEPT SIX GUIDE (online PDF), available from the Download and Donation Page:
+
+http://additive.audio/csix
+
+
+
+-------------------
+
+
+
+UPDATE INSTRUCTIONS
+
+Revision 2.0,
+1) Install ReaperTheme(s). 'Version 2' themes initialize on first run and will not overwrite older theme variants and settings. Remove old themes manually.
+2) Overwrite/install custom script and images folder: 'CONCEPT-SIX_theme_adjuster.lua' (REAPER resource path > scripts > cockos/).
+
+Revision 2.1,
+Overwrite/install ReaperTheme(s).
+No need to update CSIX Theme Adjuster.
+
+Revision 2.2.0 - 2.3.2,
+1) Overwrite/install ReaperTheme(s).
+2) Update/install CSIX Track Icons (same as default but toned down a bit).
+
+Revision 2.4.0 - 2.7.0,
+1) Overwrite/install ReaperTheme(s)
+2) Overwrite/install custom Theme Adjuster script: 'CONCEPT-SIX_theme_adjuster.lua' AND the updated image folder: 'CONCEPT-SIX_theme_adjuster_images' (REAPER resource path > scripts > cockos/).
+
+
+-------------------
+
+
+
+CONCEPT SIX - BASIC -> Basic Color, light edition
+CONCEPT SIX - BC    -> Basic Color
+CONCEPT SIX - MC    -> Multi Color
+CONCEPT SIX - DM    -> Dark Mode
+
+CONCEPT SIX - BC/MC/DM is available from Download and Donation Page:
+http://additive.audio/csix
+
+
+
+-------------------
+-------------------
